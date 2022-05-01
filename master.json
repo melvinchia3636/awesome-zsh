@@ -1,0 +1,890 @@
+[
+    {
+        "user": "0i0",
+        "repo": "0i0.zsh-theme",
+        "img": [
+            "https://i.imgur.com/jbMIBuV.png"
+        ]
+    },
+    {
+        "user": "jiahut",
+        "repo": "agnoster-plus.zsh-theme",
+        "img": [
+            "https://gist.githubusercontent.com/agnoster/3712874/raw/characters.png",
+            "https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png"
+        ]
+    },
+    {
+        "user": "eendroroy",
+        "repo": "alien-minimal",
+        "img": [
+            "http://asciinema.org/a/264037.svg"
+        ]
+    },
+    {
+        "user": "eendroroy",
+        "repo": "alien",
+        "img": [
+            "http://asciinema.org/a/237118.svg"
+        ]
+    },
+    {
+        "user": "Holger-Will",
+        "repo": "zsh_bandit",
+        "img": [
+            "https://cdn.rawgit.com/Holger-Will/zsh_bandit/master/screenshots/screenshot.png"
+        ]
+    },
+    {
+        "user": "shahid64",
+        "repo": "birav2-theme",
+        "img": [
+            "https://i.imgur.com/bN8KzW9.png",
+            "https://i.imgur.com/mncBmW2.png"
+        ]
+    },
+    {
+        "user": "haze",
+        "repo": "bruh",
+        "img": [
+            "https://haze.cool/static/bruh_preview.png"
+        ]
+    },
+    {
+        "user": "caiogondim",
+        "repo": "bullet-train.zsh",
+        "img": [
+            "http://raw.github.com/caiogondim/bullet-train-oh-my-zsh-theme/master/img/preview.gif"
+        ]
+    },
+    {
+        "user": "mikeumus",
+        "repo": "bunnyruni.min",
+        "img": [
+            "https://i.imgur.com/IgeeN9J.png"
+        ]
+    },
+    {
+        "user": "comeacrossyun",
+        "repo": "ys-cayun.zsh-theme",
+        "img": [
+            "https://img.cayun.me/2020-03-12-061056.png",
+            "https://img.cayun.me/2020-03-12-060133.png",
+            "https://img.cayun.me/2020-03-12-060241.png"
+        ]
+    },
+    {
+        "user": "akz92",
+        "repo": "clean",
+        "img": [
+            "http://raw.github.com/akz92/clean/master/img/preview.png"
+        ]
+    },
+    {
+        "user": "potasiyam",
+        "repo": "cmder-zsh-theme",
+        "img": [
+            "http://i.imgur.com/6AMLbem.png"
+        ]
+    },
+    {
+        "user": "CristianCantoro",
+        "repo": "colorbira-zsh-theme",
+        "img": [
+            "https://i.imgur.com/EHMeJI4.png",
+            "https://i.imgur.com/oV3sbL4.png"
+        ]
+    },
+    {
+        "user": "stevelacy",
+        "repo": "cordial-zsh-theme",
+        "img": [
+            "https://i.creativecommons.org/p/zero/1.0/88x31.png"
+        ]
+    },
+    {
+        "user": "dogrocker",
+        "repo": "oh-my-zsh-powerline-cute-theme",
+        "img": [
+            "http://raw.github.com/dogrocker/oh-my-zsh-powerline-cute-theme/master/img/demo-1.png",
+            "http://raw.github.com/dogrocker/oh-my-zsh-powerline-cute-theme/master/img/setting-1.png",
+            "http://raw.github.com/dogrocker/oh-my-zsh-powerline-cute-theme/master/img/setting-2.png"
+        ]
+    },
+    {
+        "user": "dongri",
+        "repo": "delta-zsh-theme",
+        "img": [
+            "https://farm5.staticflickr.com/4605/40201862722_b43ddfa051_z.jpg",
+            "https://farm5.staticflickr.com/4746/40201865112_119f30ac5e_z.jpg"
+        ]
+    },
+    {
+        "user": "dracula",
+        "repo": "zsh",
+        "img": [
+            "https://avatars0.githubusercontent.com/u/30708886?s=70"
+        ]
+    },
+    {
+        "user": "pentago",
+        "repo": "dzhi-zsh-theme",
+        "img": [
+            "https://i.imgur.com/L2lNx7m.png"
+        ]
+    },
+    {
+        "user": "qwelyt",
+        "repo": "endless-dog",
+        "img": [
+            "https://asciinema.org/a/9sp6me1x9sulph9broz4fo3za.png"
+        ]
+    },
+    {
+        "user": "zimfw",
+        "repo": "eriner",
+        "img": [
+            "https://zimfw.github.io/images/prompts/eriner@2.png"
+        ]
+    },
+    {
+        "user": "gcaracuel",
+        "repo": "gaia.zsh-theme",
+        "img": [
+            "https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+        ]
+    },
+    {
+        "user": "chauncey-garrett",
+        "repo": "zsh-prompt-garrett",
+        "img": [
+            "http://chauncey.io"
+        ]
+    },
+    {
+        "user": "jtyr",
+        "repo": "gbt",
+        "img": [
+            "https://travis-ci.org/jtyr/gbt.svg?branch=master",
+            "https://coveralls.io/repos/github/jtyr/gbt/badge.svg?branch=master",
+            "https://via.placeholder.com/10/000000/000000?text=+",
+            "https://via.placeholder.com/10/800000/000000?text=+",
+            "https://via.placeholder.com/10/008000/000000?text=+",
+            "https://via.placeholder.com/10/808000/000000?text=+",
+            "https://via.placeholder.com/10/000080/000000?text=+",
+            "https://via.placeholder.com/10/800080/000000?text=+",
+            "https://via.placeholder.com/10/008080/000000?text=+",
+            "https://via.placeholder.com/10/c0c0c0/000000?text=+",
+            "https://via.placeholder.com/10/808080/000000?text=+",
+            "https://via.placeholder.com/10/ff0000/000000?text=+",
+            "https://via.placeholder.com/10/00ff00/000000?text=+",
+            "https://via.placeholder.com/10/ffff00/000000?text=+",
+            "https://via.placeholder.com/10/0000ff/000000?text=+",
+            "https://via.placeholder.com/10/ff00ff/000000?text=+",
+            "https://via.placeholder.com/10/00ffff/000000?text=+",
+            "https://via.placeholder.com/10/ffffff/000000?text=+"
+        ]
+    },
+    {
+        "user": "geometry-zsh",
+        "repo": "geometry",
+        "img": [
+            "https://badges.gitter.im/Join%20Chat.svg"
+        ]
+    },
+    {
+        "user": "olivierverdier",
+        "repo": "zsh-git-prompt",
+        "img": [
+            "https://travis-ci.org/olivierverdier/zsh-git-prompt.svg"
+        ]
+    },
+    {
+        "user": "zimfw",
+        "repo": "gitster",
+        "img": [
+            "https://zimfw.github.io/images/prompts/gitster@2.png"
+        ]
+    },
+    {
+        "user": "xakraz",
+        "repo": "gisterv2-zsh-theme",
+        "img": [
+            "https://asciinema.org/a/264078.svg"
+        ]
+    },
+    {
+        "user": "noxer",
+        "repo": "gops",
+        "img": [
+            "https://goreportcard.com/badge/github.com/noxer/gops",
+            "https://travis-ci.org/noxer/gops.svg?branch=master",
+            "https://godoc.org/github.com/noxer/gops/segments/common?status.svg",
+            "https://godoc.org/github.com/noxer/gops/separator?status.svg",
+            "https://godoc.org/github.com/noxer/gops/symbols?status.svg"
+        ]
+    },
+    {
+        "user": "GriffinLedingham",
+        "repo": "griffin.zsh-theme",
+        "img": [
+            "https://i.imgur.com/M1HrXWO.png"
+        ]
+    },
+    {
+        "user": "victorfsf",
+        "repo": "guri",
+        "img": [
+            "https://placehold.it/15/282a36/000000?text=+",
+            "https://placehold.it/15/eff0eb/000000?text=+",
+            "https://placehold.it/15/282a36/000000?text=+",
+            "https://placehold.it/15/ff5c57/000000?text=+",
+            "https://placehold.it/15/5af78e/000000?text=+",
+            "https://placehold.it/15/f3f99d/000000?text=+",
+            "https://placehold.it/15/57c7ff/000000?text=+",
+            "https://placehold.it/15/ff6ac1/000000?text=+",
+            "https://placehold.it/15/9aedfe/000000?text=+",
+            "https://placehold.it/15/f1f1f0/000000?text=+",
+            "https://placehold.it/15/686868/000000?text=+",
+            "https://placehold.it/15/ff5c57/000000?text=+",
+            "https://placehold.it/15/5af78e/000000?text=+",
+            "https://placehold.it/15/f3f99d/000000?text=+",
+            "https://placehold.it/15/57c7ff/000000?text=+",
+            "https://placehold.it/15/ff6ac1/000000?text=+",
+            "https://placehold.it/15/9aedfe/000000?text=+",
+            "https://placehold.it/15/eff0eb/000000?text=+"
+        ]
+    },
+    {
+        "user": "bhilburn",
+        "repo": "hackersaurus",
+        "img": [
+            "http://bhilburn.org/content/images/2014/11/hokietux_theme.png"
+        ]
+    },
+    {
+        "user": "kojole",
+        "repo": "hanpen.zsh-theme",
+        "img": [
+            "https://travis-ci.org/uu1t/hanpen.zsh-theme.svg?branch=master"
+        ]
+    },
+    {
+        "user": "diogoazevedos",
+        "repo": "hexagon",
+        "img": [
+            "https://asciinema.org/a/275583.svg"
+        ]
+    },
+    {
+        "user": "sheerun",
+        "repo": "home",
+        "img": [
+            "https://i.imgur.com/w685ogZ.png"
+        ]
+    },
+    {
+        "user": "olets",
+        "repo": "hometown-prompt",
+        "img": [
+            "https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1",
+            "https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1",
+            "https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1",
+            "https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"
+        ]
+    },
+    {
+        "user": "emileswarts",
+        "repo": "horse-sh",
+        "img": [
+            "https://s3-eu-west-1.amazonaws.com/horsesh/horsesh.png"
+        ]
+    },
+    {
+        "user": "iamskok",
+        "repo": "iamskok.zsh-theme",
+        "img": [
+            "http://i.imgur.com/AzGgjrF.png"
+        ]
+    },
+    {
+        "user": "Lenart12",
+        "repo": "ice.zsh-theme",
+        "img": [
+            "https://i.imgur.com/cq0ZOVp.png"
+        ]
+    },
+    {
+        "user": "Saleh7",
+        "repo": "igeek-zsh-theme",
+        "img": [
+            "http://i.imgur.com/aAT8BBC.png"
+        ]
+    },
+    {
+        "user": "btd1337",
+        "repo": "iguanidae-zsh-theme",
+        "img": [
+            "https://ko-fi.com/img/Kofi_Logo_Blue.svg",
+            "https://ko-fi.com/img/Kofi_Logo_Blue.svg",
+            "https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+        ]
+    },
+    {
+        "user": "zyphrus",
+        "repo": "intheloop-powerline",
+        "img": [
+            "http://i.imgur.com/0Qr9sUb.png"
+        ]
+    },
+    {
+        "user": "itsthatguy",
+        "repo": "itg.zsh-theme",
+        "img": [
+            "http://i.imgur.com/AZMd6yo.png",
+            "http://i.imgur.com/1hf8x.png",
+            "http://i.imgur.com/Acbdc.png",
+            "http://i.imgur.com/b3xPc.png"
+        ]
+    },
+    {
+        "user": "jasonlewis",
+        "repo": "jcl-zsh-theme",
+        "img": [
+            "http://screencloud.net/img/screenshots/ab62c8e6108cb422dd1bcaf5437a5e43.png"
+        ]
+    },
+    {
+        "user": "h4ck3r0",
+        "repo": "kali-theme",
+        "img": [
+            "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+        ]
+    },
+    {
+        "user": "kumavis",
+        "repo": "kumavis-zsh-theme",
+        "img": [
+            "https://gist.githubusercontent.com/agnoster/3712874/raw/characters.png",
+            "https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png"
+        ]
+    },
+    {
+        "user": "cdimascio",
+        "repo": "lambda-zsh-theme",
+        "img": [
+            "https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png"
+        ]
+    },
+    {
+        "user": "sohnryang",
+        "repo": "lambda-minimal-theme",
+        "img": [
+            "https://awesome.re/mentioned-badge.svg",
+            "https://rawcdn.githack.com/sohnryang/lambda-minimal-theme/ec441881d3c355c4d377edd4a08e59cf89924221/screenshot.png"
+        ]
+    },
+    {
+        "user": "drewlustro",
+        "repo": "lazyprodigy-zsh-theme",
+        "img": [
+            "http://pool.drewlustro.com/img/github/lazyprodigy-ss.png",
+            "http://pool.drewlustro.com/img/github/lazyprodigy-ss.png",
+            "http://pool.drewlustro.com/img/github/lazyprodigy-server-ss.png"
+        ]
+    },
+    {
+        "user": "lewisflude",
+        "repo": "oh-my-lewis",
+        "img": [
+            "http://i.imgur.com/OsZuY.png"
+        ]
+    },
+    {
+        "user": "raphaelivan",
+        "repo": "lila-zsh-theme",
+        "img": [
+            "http://i61.tinypic.com/2hx59c3.png",
+            "http://i61.tinypic.com/9uw4uu.png",
+            "http://i57.tinypic.com/9rolz7.png"
+        ]
+    },
+    {
+        "user": "nojhan",
+        "repo": "liquidprompt",
+        "img": [
+            "https://github.com/nojhan/liquidprompt/workflows/tests/badge.svg",
+            "https://readthedocs.org/projects/liquidprompt/badge/?version=stable"
+        ]
+    },
+    {
+        "user": "PsychoLlama",
+        "repo": "llama.zsh-theme",
+        "img": [
+            "https://cdn.rawgit.com/PsychoLlama/llama.zsh-theme/master/screenshot.png"
+        ]
+    },
+    {
+        "user": "logico",
+        "repo": "logico-zsh-theme",
+        "img": [
+            "https://logico.ar/img/2019/03/25/logico-zsh-theme.gif"
+        ]
+    },
+    {
+        "user": "MartinWie",
+        "repo": "ohmyzsh-theme-mad",
+        "img": [
+            "https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"
+        ]
+    },
+    {
+        "user": "zimfw",
+        "repo": "magicmace",
+        "img": [
+            "https://zimfw.github.io/images/prompts/magicmace@2.png"
+        ]
+    },
+    {
+        "user": "carloscuesta",
+        "repo": "materialshell",
+        "img": [
+            "https://cloud.githubusercontent.com/assets/7629661/11194912/348e69f6-8caf-11e5-97ec-876bd6565125.gif",
+            "https://cloud.githubusercontent.com/assets/7629661/11169947/1337b238-8bc6-11e5-8eaa-37d435b9ecee.png",
+            "https://cloud.githubusercontent.com/assets/7629661/24923003/7b2ffa8a-1ef0-11e7-9092-dea1c694f667.png",
+            "https://cloud.githubusercontent.com/assets/7629661/24923004/7b4efe9e-1ef0-11e7-8804-ab3090ec1394.png"
+        ]
+    },
+    {
+        "user": "subnixr",
+        "repo": "minimal",
+        "img": [
+            "https://asciinema.org/a/RZthpXkg9b7KdKRGjySsC83wx.png"
+        ]
+    },
+    {
+        "user": "PatTheMav",
+        "repo": "minimal2",
+        "img": [
+            "https://asciinema.org/a/RZthpXkg9b7KdKRGjySsC83wx.png"
+        ]
+    },
+    {
+        "user": "misalabs",
+        "repo": "misa.zsh-theme",
+        "img": [
+            "http://misalabs.com/static/img/ohmyzsh.png"
+        ]
+    },
+    {
+        "user": "tweekmonster",
+        "repo": "nanofish",
+        "img": [
+            "https://cloud.githubusercontent.com/assets/111942/7474025/d8f5e970-f30c-11e4-80d5-a64bd6f9949c.gif"
+        ]
+    },
+    {
+        "user": "aanc",
+        "repo": "oh-my-zsh-nknu-theme",
+        "img": [
+            "http://github.com/aanc/oh-my-zsh-nknu-theme/raw/master/preview.png"
+        ]
+    },
+    {
+        "user": "nmaxcom",
+        "repo": "nmaxcom-zsh-theme",
+        "img": [
+            "https://i.imgur.com/vG7jeuK.png",
+            "https://i.imgur.com/ciPuxLE.png",
+            "https://i.imgur.com/hFNv6VU.png",
+            "https://i.imgur.com/50IWWuc.png"
+        ]
+    },
+    {
+        "user": "arialdomartini",
+        "repo": "oh-my-git",
+        "img": [
+            "https://cloud.githubusercontent.com/assets/6009528/6031476/0b9bfe2c-ac00-11e4-898a-324a71be6cb5.png",
+            "https://cloud.githubusercontent.com/assets/6009528/6039646/454c965e-ac69-11e4-8f80-37425181d04b.png",
+            "https://cloud.githubusercontent.com/assets/150719/5852434/06933e88-a217-11e4-81a0-153c5a300b0a.png",
+            "https://cloud.githubusercontent.com/assets/150719/5852429/e50d18a6-a216-11e4-9b0e-c902f47a1ca4.png"
+        ]
+    },
+    {
+        "user": "erikschreier",
+        "repo": "PaperColor-themes",
+        "img": [
+            "http://i65.tinypic.com/2wdy975.png"
+        ]
+    },
+    {
+        "user": "erikschreier",
+        "repo": "powerbash-zsh",
+        "img": [
+            "https://imgur.com/hgC920Yl.png"
+        ]
+    },
+    {
+        "user": "romkatv",
+        "repo": "powerlevel10k",
+        "img": [
+            "https://badges.gitter.im/powerlevel10k/community.svg"
+        ]
+    },
+    {
+        "user": "bhilburn",
+        "repo": "powerlevel9k",
+        "img": [
+            "https://travis-ci.org/bhilburn/powerlevel9k.svg?branch=master",
+            "https://badges.gitter.im/bhilburn/powerlevel9k.svg",
+            "http://bhilburn.org/content/images/2015/01/pl9k-improved.png",
+            "https://camo.githubusercontent.com/b5d7eb49a30bfe6bdb5706fa3c9be95fe8e5956e/687474703a2f2f67696679752e636f6d2f696d616765732f70396b6e65772e676966",
+            "http://i.imgur.com/hviMATC.png",
+            "https://cloud.githubusercontent.com/assets/1544760/12183451/40ec4016-b58f-11e5-9b9e-74e2b2f0b8b3.png",
+            "https://cloud.githubusercontent.com/assets/1544760/12369315/8a5d762c-bbf5-11e5-8a20-ca1179f48d6c.png",
+            "https://cloud.githubusercontent.com/assets/1544760/12183452/40f79286-b58f-11e5-9b8c-ed1343a07b08.png",
+            "https://cloud.githubusercontent.com/assets/1544760/7976089/b5904d6e-0a76-11e5-8147-5e873ac52d79.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976091/b5909c9c-0a76-11e5-9cad-9bf0a28a897c.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976094/b5ae9346-0a76-11e5-8cc7-e98b81824118.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976096/b5aefa98-0a76-11e5-9408-985440471215.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976095/b5aecc8a-0a76-11e5-8988-221afc6e8982.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976098/b5c7a2e6-0a76-11e5-8c5b-315b595b2bc4.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976093/b5ad2c0e-0a76-11e5-9cd3-62a077b1b0c7.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976197/546cfac6-0a78-11e5-88a6-ce3a1e0a174e.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/8000852/e7e8d8a0-0b5f-11e5-9834-de9b25c92284.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976087/b58bbe3e-0a76-11e5-8d0d-7a5c1bc7f730.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976088/b58f4e50-0a76-11e5-9e70-86450d937030.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976092/b5909f80-0a76-11e5-9950-1438b9d72465.gif",
+            "https://cloud.githubusercontent.com/assets/1544760/7976090/b5908da6-0a76-11e5-8c91-452b6e73f631.gif"
+        ]
+    },
+    {
+        "user": "brucehsu",
+        "repo": "oh-my-zsh-powerline-theme",
+        "img": [
+            "http://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme/raw/master/preview.png"
+        ]
+    },
+    {
+        "user": "rdnetto",
+        "repo": "powerline-hs",
+        "img": [
+            "https://travis-ci.org/rdnetto/powerline-hs.svg?branch=master",
+            "https://rdnetto.github.io/powerline-hs/bench.png"
+        ]
+    },
+    {
+        "user": "carlcarl",
+        "repo": "powerline-zsh",
+        "img": [
+            "http://i.imgur.com/QfDe3yP.png",
+            "http://i.imgur.com/f1kQcLv.png"
+        ]
+    },
+    {
+        "user": "jamiewilson",
+        "repo": "predawn-shell",
+        "img": [
+            "http://i.imgur.com/lJ34FpJ.png"
+        ]
+    },
+    {
+        "user": "klaude",
+        "repo": "prezto-cloud-prompt",
+        "img": [
+            "http://i.imgur.com/mJCZ8rE.png"
+        ]
+    },
+    {
+        "user": "nixolas1",
+        "repo": "prezto-lambda",
+        "img": [
+            "http://i.imgur.com/V7fzEUg.png"
+        ]
+    },
+    {
+        "user": "malinoskj2",
+        "repo": "prompt_j2",
+        "img": [
+            "https://travis-ci.org/malinoskj2/prompt_j2.svg?branch=master"
+        ]
+    },
+    {
+        "user": "banminkyoz",
+        "repo": "purify",
+        "img": [
+            "https://i.imgur.com/8iNZWWR.png",
+            "https://i.imgur.com/5OGnkjQ.png"
+        ]
+    },
+    {
+        "user": "kyoz",
+        "repo": "purify",
+        "img": [
+            "https://i.imgur.com/8iNZWWR.png",
+            "https://i.imgur.com/5OGnkjQ.png"
+        ]
+    },
+    {
+        "user": "xcambar",
+        "repo": "purs",
+        "img": [
+            "https://travis-ci.org/xcambar/purs.svg?branch=travis"
+        ]
+    },
+    {
+        "user": "r3nic1e",
+        "repo": "r3nic1e",
+        "img": [
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=r3nic1e&hide_langs_below=1&theme=merko&line_height=27&layout=compact",
+            "https://github-readme-stats.vercel.app/api?username=r3nic1e&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=merko",
+            "https://github-profile-trophy.vercel.app/?username=r3nic1e&column=7&theme=monokai"
+        ]
+    },
+    {
+        "user": "parwat08",
+        "repo": "random-emoji-robbyrussell",
+        "img": [
+            "https://i.imgur.com/uIUa007.png"
+        ]
+    },
+    {
+        "user": "Raytek",
+        "repo": "raytek-zsh-theme",
+        "img": [
+            "https://i.imgur.com/2Q48qWy.png"
+        ]
+    },
+    {
+        "user": "Remiii",
+        "repo": "remiii.zsh-theme",
+        "img": [
+            "http://cl.ly/content/image/2l3w443z363P/aHR0cDovL2YuY2wubHkvaXRlbXMvM2ozTjJpMDMzTzJNM0ozcDFjMjgvU2NyZWVuJTIwU2hvdCUyMDIwMTItMDktMTQlMjBhdCUyMDEyLjA2LjAyJTIwLnBuZw=="
+        ]
+    },
+    {
+        "user": "tactlessfish",
+        "repo": "ribbon-prompt",
+        "img": [
+            "https://i.imgur.com/HCxb9pO.png"
+        ]
+    },
+    {
+        "user": "zimfw",
+        "repo": "s1ck94",
+        "img": [
+            "https://zimfw.github.io/images/prompts/s1ck94@2.png"
+        ]
+    },
+    {
+        "user": "matthieusb",
+        "repo": "zsh-sdkman",
+        "img": [
+            "https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthieusb%2Fzsh-sdkman.svg?type=shield",
+            "https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthieusb%2Fzsh-sdkman.svg?type=large"
+        ]
+    },
+    {
+        "user": "hiroru",
+        "repo": "senpai-zsh",
+        "img": [
+            "https://asciinema.org/a/thUXMMyOXY9E1VH0dEujypUw7.png"
+        ]
+    },
+    {
+        "user": "sepehr",
+        "repo": "sepshell",
+        "img": [
+            "http://i.imgur.com/DKCRug0.jpg",
+            "http://i.imgur.com/t1WowE8.png"
+        ]
+    },
+    {
+        "user": "athul",
+        "repo": "shelby",
+        "img": [
+            "https://travis-ci.org/athul/shelby.svg?branch=master",
+            "https://goreportcard.com/badge/github.com/athul/shelby",
+            "https://imgix.bustle.com/uploads/image/2019/5/2/ffa82ad4-937e-412c-9bfd-33cb9252e88e-instagram-donate.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70"
+        ]
+    },
+    {
+        "user": "bashelled",
+        "repo": "shini",
+        "img": [
+            "https://asciinema.org/a/387244.svg"
+        ]
+    },
+    {
+        "user": "shirnschall",
+        "repo": "shirnschall-zsh-theme",
+        "img": [
+            "https://dl.dropboxusercontent.com/s/ddo5q3lcwqpxyxl/home.png?dl=0",
+            "https://dl.dropboxusercontent.com/s/tzse0eelp6hm2su/github.png?dl=0"
+        ]
+    },
+    {
+        "user": "fr0zn",
+        "repo": "simplezsh",
+        "img": [
+            "https://i.imgur.com/Y9bS5gT.png"
+        ]
+    },
+    {
+        "user": "tahadostifam",
+        "repo": "skull-zsh",
+        "img": [
+            "https://tahadostifam.github.io/server/skull-zsh-cover.png"
+        ]
+    },
+    {
+        "user": "nbari",
+        "repo": "slick",
+        "img": [
+            "https://img.youtube.com/vi/ZFQ2bykpm6s/0.jpg"
+        ]
+    },
+    {
+        "user": "denysdovhan",
+        "repo": "spaceship-prompt",
+        "img": [
+            "https://github.com/denysdovhan.png?size=100",
+            "https://github.com/salmanulfarzy.png?size=100",
+            "https://github.com/maximbaz.png?size=100",
+            "https://github.com/Runrioter.png?size=100",
+            "https://cloud.githubusercontent.com/assets/3459374/21679181/46e24706-d34b-11e6-82ee-5efb3d2ba70f.png",
+            "https://c5.patreon.com/external/logo/become_a_patron_button@2x.png",
+            "https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"
+        ]
+    },
+    {
+        "user": "FajarKim",
+        "repo": "spyrhoo-zsh-theme",
+        "img": [
+            "https://l.top4top.io/p_2074ushs80.png",
+            "https://b.top4top.io/p_20736cyt40.png"
+        ]
+    },
+    {
+        "user": "hugoh",
+        "repo": "zsh-ssfprompt",
+        "img": [
+            "https://asciinema.org/a/286672.png"
+        ]
+    },
+    {
+        "user": "zimfw",
+        "repo": "steeef",
+        "img": [
+            "https://zimfw.github.io/images/prompts/steeef@2.png"
+        ]
+    },
+    {
+        "user": "cbrock",
+        "repo": "sugar-free",
+        "img": [
+            "https://cloud.githubusercontent.com/assets/1780846/21775412/d16a5736-d64a-11e6-9ec0-f47933acdc8e.png"
+        ]
+    },
+    {
+        "user": "thingerpig",
+        "repo": "tepig-ys.zsh-theme",
+        "img": [
+            "https://img.cayun.me/2020-03-12-061056.png",
+            "https://img.cayun.me/2020-03-12-060133.png",
+            "https://img.cayun.me/2020-03-12-060241.png"
+        ]
+    },
+    {
+        "user": "eendroroy",
+        "repo": "theta",
+        "img": [
+            "https://asciinema.org/a/121490.png"
+        ]
+    },
+    {
+        "user": "fcce",
+        "repo": "traffic-zsh-theme",
+        "img": [
+            "https://i.imgur.com/HV9eh57.png"
+        ]
+    },
+    {
+        "user": "Henryws",
+        "repo": "twilight-prompt",
+        "img": [
+            "https://i.postimg.cc/yNKJVn1n/prompt.png"
+        ]
+    },
+    {
+        "user": "reobin",
+        "repo": "typewritten",
+        "img": [
+            "https://reporoster.com/stars/reobin/typewritten",
+            "https://reporoster.com/forks/reobin/typewritten"
+        ]
+    },
+    {
+        "user": "alejandromume",
+        "repo": "ubunly-zsh-theme",
+        "img": [
+            "https://www.kali.org/wp-content/uploads/2020/11/kali-2020.4-release-1.png",
+            "https://cdn.clippy.gg/clippy/7f2e09d2-e280-4440-b4d9-6e4d88701993/c1851f6.gif",
+            "https://cdn.clippy.gg/clippy/7f2e09d2-e280-4440-b4d9-6e4d88701993/163b668.gif"
+        ]
+    },
+    {
+        "user": "vinhnx",
+        "repo": "vinhnx.zsh-theme",
+        "img": [
+            "http://i.imgur.com/ERLvH.png",
+            "https://d2weczhvl823v0.cloudfront.net/vinhnx/vinhnx.zsh-theme/trend.png"
+        ]
+    },
+    {
+        "user": "wadehammes",
+        "repo": "wade.zsh-theme",
+        "img": [
+            "https://s3.amazonaws.com/f.cl.ly/items/3326223D2x3k2k1v173s/Screen%20Shot%202015-04-22%20at%207.26.17%20PM.png"
+        ]
+    },
+    {
+        "user": "whalesea520",
+        "repo": "whale-zsh-theme",
+        "img": [
+            "https://asciinema.org/a/240302.svg"
+        ]
+    },
+    {
+        "user": "mashaal",
+        "repo": "wild-cherry",
+        "img": [
+            "https://i.imgur.com/7BM4wQ3.png"
+        ]
+    },
+    {
+        "user": "u8slvn",
+        "repo": "oh-my-zsh-workbench-theme",
+        "img": [
+            "https://docs.google.com/uc?id=0B30nOrEpfS9zR3BndmtQUUtuS00",
+            "https://docs.google.com/uc?id=0B30nOrEpfS9zeHhGVGFNQjNnT2c",
+            "https://docs.google.com/uc?id=0B30nOrEpfS9zTWN4dGgzYUx3eDg"
+        ]
+    },
+    {
+        "user": "yunyuliu",
+        "repo": "yyl-ys.zsh-theme",
+        "img": [
+            "https://img.cayun.me/2020-03-12-061056.png",
+            "https://img.cayun.me/2020-03-12-060133.png",
+            "https://img.cayun.me/2020-03-12-060241.png"
+        ]
+    },
+    {
+        "user": "SuperKnerdBros",
+        "repo": "zelda.zsh-theme",
+        "img": [
+            "http://i.imgur.com/9J7mLab.png"
+        ]
+    }
+]
