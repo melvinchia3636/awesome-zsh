@@ -7,3 +7,11 @@
 * {
   font-family: 'Jetbrains Mono', monospace
 }
+
+body {
+  @apply bg-neutral-900
+}
+
+.typed-cursor {
+  @apply -translate-y-1 inline-block ml-2
+}

@@ -2,20 +2,29 @@ import { Icon } from '@iconify/react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import React from 'react'
+import ReactTyped from 'react-typed';
+import "animate.css";
 
 function Navbar() {
   const router = useRouter();
   console.log(router.pathname)
   return (
     <div className="z-[9999] w-full fixed top-0 bg-neutral-900 left-0 p-12 flex items-center justify-between">
-      <div className="flex items-center gap-2 font-semibold text-lg">
+      <div className="flex items-center gap-2 font-semibold text-lg animate__animated animate__fadeInLeft">
         <Icon
           icon="ph:terminal-window"
           className="w-8 h-8 stroke-orange-400 stroke-[1.6px] text-orange-500"
         />
-        Awesome-zsh
+        awesome-zsh
+        <span className="inline-block mt-1 -ml-3">
+          <ReactTyped
+            strings={[""]}
+            cursorChar="▋"
+
+          />
+        </span>
       </div>
-      <div className="flex items-center gap-16 text-[0.9rem] font-medium">
+      <div className="flex items-center gap-16 text-[0.9rem] font-medium animate__animated animate__fadeInRight">
         {
           [
             ["Home", "/"],

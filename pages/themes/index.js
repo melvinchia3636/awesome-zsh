@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 import React, { useState } from "react";
 import list from "../data.json";
 import fs from "fs";
-import Navbar from "../../components/Navbar";
+import Head from "next/head";
 
 export function getStaticProps() {
   const data = fs
@@ -22,12 +22,14 @@ export function getStaticProps() {
 function Themes({ data }) {
   const [query, setQuery] = useState("");
   return (
-    <div className="flex flex-col items-center p-32 gap-32 bg-neutral-900 text-neutral-100">
-      <Navbar />
+    <div className="flex flex-col items-center w-full gap-32">
+      <Head>
+        <title>Themes | awesome-zsh</title>
+      </Head>
       <h1 className="mt-20 text-5xl w-3/4 text-left font-semibold relative after:absolute after:-bottom-4 after:left-0 after:border-b-4 after:border-neutral-100 after:w-16">
         Themes
       </h1>
-      <p className="-mt-20 leading-8 w-3/4 text-neutral-400">
+      <p className="-mt-20 leading-8 w-3/4">
         If you&apos;re using{" "}
         <a className="underline text-orange-400">Antigen</a>, you can test these
         themes in a running ZSH with
@@ -62,7 +64,7 @@ function Themes({ data }) {
             <h2 className="text-2xl mb-2 font-medium text-orange-400">
               {name}
             </h2>
-            <p className="text-sm text-neutral-400">{desc}</p>
+            <p className="text-sm">{desc}</p>
             <div className="flex flex-col mt-8 gap-2 w-full">
               {data
                 .filter((e) => {
