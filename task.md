@@ -1,800 +1,800 @@
 - [x] Abid-Ahmad/oh-my-zsh-000-theme
-- [ ] 0i0/0i0.zsh-theme
-- [ ] 14degree-zsh-theme/
+- [x] 0i0/0i0.zsh-theme
+- [x] 14degree-zsh-theme/
 - [x] chammanganti/a-zsh-theme
-- [ ] aaronjamesyoung/aaron-zsh-theme
-- [ ] PhilsLab/abbr-zsh-theme
-- [ ] NelsonBrandao/absolute
-- [ ] adamdodev/adamdodev-zsh-theme
-- [ ] master/adlee.zsh-theme
-- [ ] rslavin/af-magic-dynamic
-- [ ] AflahB/aflah-bhari-zsh-theme
-- [ ] schanur/aftermath
-- [ ] dbestevez/agitnoster-theme
-- [ ] agkozak/agkozak-zsh-prompt
-- [ ] fcamblor/oh-my-zsh-agnoster-fcamblor
-- [ ] fsegouin/oh-my-zsh-agnoster-mod-theme
-- [ ] r7l/agnoster-gentoo-zsh-theme
-- [ ] apjanke/agnosterj-zsh-theme
-- [ ] fsegouin/oh-my-zsh-agnoster-mod-theme
-- [ ] jiahut/agnoster-plus.zsh-theme
-- [ ] fusion94/Agnoster-refresh
+- [x] aaronjamesyoung/aaron-zsh-theme
+- [x] PhilsLab/abbr-zsh-theme
+- [x] NelsonBrandao/absolute
+- [x] adamdodev/adamdodev-zsh-theme
+- [!] master/adlee.zsh-theme
+- [x] rslavin/af-magic-dynamic
+- [x] AflahB/aflah-bhari-zsh-theme
+- [x] schanur/aftermath
+- [x] dbestevez/agitnoster-theme
+- [x] agkozak/agkozak-zsh-prompt
+- [x] fcamblor/oh-my-zsh-agnoster-fcamblor
+- [!] fsegouin/oh-my-zsh-agnoster-mod-theme
+- [x] r7l/agnoster-gentoo-zsh-theme
+- [x] apjanke/agnosterj-zsh-theme
+- [!] fsegouin/oh-my-zsh-agnoster-mod-theme
+- [x] jiahut/agnoster-plus.zsh-theme
+- [x] fusion94/Agnoster-refresh
 - [x] ivanfurlan/agnoster-repopath-theme
-- [ ] DylanDelobel/agnoster-timestamp-newline-zsh-theme
-- [ ] afrozalm/agnosterAfro
-- [ ] agnoster/3712874
-- [ ] zakaziko99/agnosterzak-ohmyzsh-theme
-- [ ] awkimball/akzsh
-- [ ] al-magic/
-- [ ] alarangeiras-zsh-theme/
-- [ ] alepimentel/ale-zsh
-- [ ] eendroroy/alien-minimal
-- [ ] eendroroy/alien
-- [ ] Ryooooooga/almel
-- [ ] NicoSantangelo/Alpharized
-- [ ] Br1an6/amoyly.zsh-theme
+- [x] DylanDelobel/agnoster-timestamp-newline-zsh-theme
+- [x] afrozalm/agnosterAfro
+- [!] dbestevez/agitnoster-theme
+- [x] zakaziko99/agnosterzak-ohmyzsh-theme
+- [x] awkimball/akzsh
+- [x] Alustrat/al-magic/
+- [x] alarangeiras/alarangeiras-zsh-theme/
+- [x] alepimentel/ale-zsh
+- [x] eendroroy/alien-minimal
+- [x] eendroroy/alien
+- [x] Ryooooooga/almel
+- [x] NicoSantangelo/Alpharized
+- [x] Br1an6/amoyly.zsh-theme
 - [x] clintfoster/ohmyzsh-theme-amplify
-- [ ] russjohnson/angry-fly-zsh
+- [!] russjohnson/angry-fly-zsh
 - [x] antoinechab/antoinechab-theme
 - [x] jeffmhubbard/antsy-zsh-theme
-- [ ] piccobit/aperiodic-zsh-theme
-- [ ] win0err/aphrodite-terminal-theme
-- [ ] sunquan1991/aplos
-- [ ] mjrafferty/apollo-zsh-theme
+- [x] piccobit/aperiodic-zsh-theme
+- [x] win0err/aphrodite-terminal-theme
+- [x] sunquan1991/aplos
+- [x] mjrafferty/apollo-zsh-theme
 - [x] aramirol/apple-zsh-custom-themes
 - [x] bjrowlett2/apple-zsh-theme
 - [x] aknackd/zsh-themes
 - [x] mrx04programmer/ZshTheme-ArchCraft
-- [ ] dcavalcante/archie
-- [ ] hybras/Arity-Zsh-Theme
-- [ ] aronhoyer/zsh-theme
-- [ ] maxim-usikov/arrow-minimal.zsh-theme
-- [ ] cemsbr/asciigit
-- [ ] AugustoQueiroz/asq-theme
-- [ ] xwmx/astral
-- [ ] master/README.md
-- [ ] mje-nz/zsh-themes
-- [ ] guiferpa/aterminal
+- [x] dcavalcante/archie
+- [x] hybras/Arity-Zsh-Theme
+- [x] aronhoyer/zsh-theme
+- [x] maxim-usikov/arrow-minimal.zsh-theme
+- [x] cemsbr/asciigit
+- [x] AugustoQueiroz/asq-theme
+- [x] xwmx/astral
+- [x] iplaces/astro-zsh-theme
+- [x] mje-nz/zsh-themes
+- [x] guiferpa/aterminal
 - [x] FraSharp/aub
-- [ ] avil13/avil-zsh-theme
-- [ ] fdaciuk/avit-da2k
-- [ ] zlsun/avit-mod
-- [ ] sorcererxw/banana-zsh-theme
-- [ ] Holger-Will/zsh_bandit
-- [ ] anki-code/bar-theme
-- [ ] xp-bar/zsh-bar-theme
-- [ ] SEbbaDK/barion
-- [ ] starseekist/bash-zsh-theme
-- [ ] eli-oat/bashi
-- [ ] jsundqvist/bastard.zsh-theme
-- [ ] JanmanX/bearable-zsh
+- [x] avil13/avil-zsh-theme
+- [x] fdaciuk/avit-da2k
+- [x] zlsun/avit-mod
+- [x] sorcererxw/banana-zsh-theme
+- [x] Holger-Will/zsh_bandit
+- [x] anki-code/bar-theme
+- [x] xp-bar/zsh-bar-theme
+- [x] SEbbaDK/barion
+- [x] starseekist/bash-zsh-theme
+- [x] eli-oat/bashi
+- [x] jsundqvist/bastard.zsh-theme
+- [x] JanmanX/bearable-zsh
 - [x] justino/zsh-theme-bedbugs
-- [ ] tcnksm/oh-my-zsh-beer-theme
-- [ ] specious/bender
+- [x] tcnksm/oh-my-zsh-beer-theme
+- [x] specious/bender
 - [x] JamesLaverack/bernkastel
-- [ ] vvvvv/bgnoster.zsh-theme
+- [!] vvvvv/bgnoster.zsh-theme
 - [x] Shahryar-Pirooz/biraSkull.zsh-theme
-- [ ] maniat1k/birame
+- [x] maniat1k/birame
 - [x] vemonet/biratime
-- [ ] shahid64/birav2-theme
-- [ ] gporrata/bklyn-zsh
-- [ ] black7375/BlaCk-Void-Zsh
-- [ ] ginfuru/zsh-blackrain
-- [ ] blazux/omz-theme
-- [ ] max13fr/blinks.zsh-theme
-- [ ] ixfan/blinks-xfan
-- [ ] joshjon/bliss-zsh
-- [ ] KorvinSilver/blokkzh
-- [ ] yardnsm/blox-zsh-theme
-- [ ] hiroppy/bluehigh.zsh-theme
-- [ ] apbarrero/bluelines
+- [x] shahid64/birav2-theme
+- [!] gporrata/bklyn-zsh
+- [x] black7375/BlaCk-Void-Zsh
+- [x] ginfuru/zsh-blackrain
+- [x] blazux/omz-theme
+- [x] max13fr/blinks.zsh-theme
+- [x] ixfan/blinks-xfan
+- [x] joshjon/bliss-zsh
+- [x] KorvinSilver/blokkzh
+- [x] yardnsm/blox-zsh-theme
+- [x] hiroppy/bluehigh.zsh-theme
+- [x] apbarrero/bluelines
 - [x] varunpbardwaj/bluo
 - [x] cubasepp/zsh-bogo-theme
-- [ ] the0neWhoKnocks/zsh-theme-boom
+- [x] the0neWhoKnocks/zsh-theme-boom
 - [x] evil-tim/boxy-zsh-theme
-- [ ] mpostaire/bref-zsh-prompt
+- [x] mpostaire/bref-zsh-prompt
 - [x] brisa-dev/oh-my-zsh-brisa-theme
-- [ ] reujab/bronze
-- [ ] evenhold/brs-zsh-theme
-- [ ] haze/bruh
-- [ ] Brunty/omz-brunty
-- [ ] Bryan-Cee/bryce-robbyrussell
-- [ ] yasuhiroki/bttf-color-zsh
+- [x] reujab/bronze
+- [x] evenhold/brs-zsh-theme
+- [!] haze/bruh
+- [!] Brunty/omz-brunty
+- [x] Bryan-Cee/bryce-robbyrussell
+- [x] yasuhiroki/bttf-color-zsh
 - [x] ice-bear-forever/bubblegum-zsh
-- [ ] hohmannr/bubblified
-- [ ] varaki/bubblified-varaki.zsh-theme
-- [ ] caiogondim/bullet-train.zsh
-- [ ] mikeumus/bunnyruni.min
-- [ ] jopcode/oh-my-zsh-bunnyruni-theme
-- [ ] angus-lherrou/bureau-env
-- [ ] BenjaminGuzman/bureau-parrot
-- [ ] isqua/bureau
+- [x] hohmannr/bubblified
+- [x] varaki/bubblified-varaki.zsh-theme
+- [x] caiogondim/bullet-train.zsh
+- [x] mikeumus/bunnyruni.min
+- [x] jopcode/oh-my-zsh-bunnyruni-theme
+- [!] angus-lherrou/bureau-env
+- [x] BenjaminGuzman/bureau-parrot
+- [x] isqua/bureau
 - [x] grantbuster/buster_zsh_theme
-- [ ] welksonramos/cactus
-- [ ] NicolaiRuckel/oh-my-zsh-candy-light
-- [ ] comeacrossyun/ys-cayun.zsh-theme
-- [ ] celestialorb/zsh-theme
+- [x] welksonramos/cactus
+- [x] NicolaiRuckel/oh-my-zsh-candy-light
+- [x] comeacrossyun/ys-cayun.zsh-theme
+- [x] celestialorb/zsh-theme
 - [x] mdan16/cf-ps1
 - [x] ch4rli3kop/ch4rli3.zsh-theme
-- [ ] jasonchaffee/chaffee.zsh-theme
-- [ ] ARtoriouSs/chaotic-beef-zsh-theme
-- [ ] robwierzbowski/charged-zsh-theme
+- [x] jasonchaffee/chaffee.zsh-theme
+- [x] ARtoriouSs/chaotic-beef-zsh-theme
+- [x] robwierzbowski/charged-zsh-theme
 - [x] Abdalla981/chello
-- [ ] akinjide/chi
-- [ ] JKerboeuf/chill.zsh-theme
-- [ ] andresemartinez/chinipage-zsh-theme
-- [ ] chrisandrewcl/chrisandrew.cl.zsh-theme
-- [ ] nvillapiano/zsh-theme---cinnabar
-- [ ] nbitmage/clarity.zsh
+- [x] akinjide/chi
+- [x] JKerboeuf/chill.zsh-theme
+- [x] andresemartinez/chinipage-zsh-theme
+- [x] chrisandrewcl/chrisandrew.cl.zsh-theme
+- [x] nvillapiano/zsh-theme---cinnabar
+- [x] nbitmage/clarity.zsh
 - [x] dylanroman03/classyTouchName
-- [ ] yarisgutierrez/classyTouch_oh-my-zsh
-- [ ] akz92/clean
-- [ ] BrandonRoehl/zsh-clean
+- [x] yarisgutierrez/classyTouch_oh-my-zsh
+- [x] akz92/clean
+- [x] BrandonRoehl/zsh-clean
 - [x] Patr1ot/clean.zsh-theme
 - [x] diegoos/cleansh
-- [ ] H00N24/clearance-theme-oh-my-zsh
+- [x] H00N24/clearance-theme-oh-my-zsh
 - [x] Robert-96/clipper
-- [ ] Huvik/Cloudy
-- [ ] tzing/clover.zsh-theme
-- [ ] szyminson/cmder-wsl-zsh
-- [ ] potasiyam/cmder-zsh-theme
-- [ ] cn-zsh/
-- [ ] wesbos/Cobalt2-iterm
-- [ ] alexeimun/cobalt2git
-- [ ] CodeMonkeyMike/ZshTheme-CodeMachine
-- [ ] babette-landmesser/codemonkey-on-fire.zsh-theme
-- [ ] CoffeeVector/coffeenostor-zsh-theme
-- [ ] ArmandPhilippot/coldark-zsh-theme
-- [ ] lambdalisue/collon.zsh
-- [ ] CristianCantoro/colorbira-zsh-theme
-- [ ] jackharrisonsherlock/common
-- [ ] comxtohr/comxtohr-zsh-iterm-theme
-- [ ] stevelacy/cordial-zsh-theme
-- [ ] FelipeCRamos/craminzsh
-- [ ] cryocaustik/cryo-zsh-theme
-- [ ] koenwoortman/creme-fraiche-zsh-theme
-- [ ] dogrocker/oh-my-zsh-powerline-cute-theme
-- [ ] MakeWorkSimple/cxzh.zsh-theme
-- [ ] ston1x/cypher-ruby
-- [ ] Cellophan/czsh
-- [ ] zsh-daily-emoji-theme/
-- [ ] ghlin/zsh-theme-daily
-- [ ] njdom24/Damino-Zsh-Theme
-- [ ] abbreviatedman/dangerroom
+- [x] Huvik/Cloudy
+- [x] tzing/clover.zsh-theme
+- [x] szyminson/cmder-wsl-zsh
+- [x] potasiyam/cmder-zsh-theme
+- [x] shinqcn/cn-zsh/
+- [!] wesbos/Cobalt2-iterm
+- [x] alexeimun/cobalt2git
+- [x] CodeMonkeyMike/ZshTheme-CodeMachine
+- [x] babette-landmesser/codemonkey-on-fire.zsh-theme
+- [x] CoffeeVector/coffeenostor-zsh-theme
+- [x] ArmandPhilippot/coldark-zsh-theme
+- [x] lambdalisue/collon.zsh
+- [x] CristianCantoro/colorbira-zsh-theme
+- [x] jackharrisonsherlock/common
+- [x] comxtohr/comxtohr-zsh-iterm-theme
+- [x] stevelacy/cordial-zsh-theme
+- [x] FelipeCRamos/craminzsh
+- [x] cryocaustik/cryo-zsh-theme
+- [x] koenwoortman/creme-fraiche-zsh-theme
+- [x] dogrocker/oh-my-zsh-powerline-cute-theme
+- [x] MakeWorkSimple/cxzh.zsh-theme
+- [x] ston1x/cypher-ruby
+- [!] Cellophan/czsh
+- [x] huytran-wq/zsh-daily-emoji-theme/
+- [x] ghlin/zsh-theme-daily
+- [x] njdom24/Damino-Zsh-Theme
+- [x] abbreviatedman/dangerroom
 - [x] ann-kilzer/annkilzer.zsh-theme
-- [ ] daniloheraclio/daniloheraclio-zsh-theme
-- [ ] InAnimaTe/darkblood-modular
-- [ ] TooSchoolForCool/darksoku-zsh-theme
+- [x] daniloheraclio/daniloheraclio-zsh-theme
+- [!] InAnimaTe/darkblood-modular
+- [x] TooSchoolForCool/darksoku-zsh-theme
 - [x] dbernhard-0x7CD/zsh-dbern-theme
-- [ ] asavoy/delta-zsh-theme
-- [ ] dongri/delta-zsh-theme
-- [ ] cusxio/delta-prompt
-- [ ] ja1dan/Destiny
-- [ ] cjeonguk/devj121-zsh-theme
-- [ ] shvenkat/zsh-theme-dexter
-- [ ] OdilonDamasceno/dino-zsh-theme
-- [ ] RyanScottLewis/theme-dissonance-zsh
-- [ ] aprilnops/zsh-theme
-- [ ] dkniffin/zsh-theme
-- [ ] domix/dmx.zsh-theme
-- [ ] cdodd/doodleshell-zsh-theme
-- [ ] davidparsson/zsh-dp-theme
+- [x] asavoy/delta-zsh-theme
+- [x] dongri/delta-zsh-theme
+- [x] cusxio/delta-prompt
+- [x] ja1dan/Destiny
+- [!] cjeonguk/devj121-zsh-theme
+- [x] shvenkat/zsh-theme-dexter
+- [x] OdilonDamasceno/dino-zsh-theme
+- [x] RyanScottLewis/theme-dissonance-zsh
+- [x] aprilnops/zsh-theme
+- [x] dkniffin/zsh-theme
+- [x] domix/dmx.zsh-theme
+- [x] cdodd/doodleshell-zsh-theme
+- [x] davidparsson/zsh-dp-theme
 - [ ] Dr4kk0nnys_theme_ohmyzsh_v2/
-- [ ] dracula/zsh
+- [x] dracula/zsh
 - [x] jeop10/dragon
 - [x] sabertazimi/dragon-zsh-theme
 - [x] katrinaalaimo/drkat-zsh-theme
-- [ ] isuke/droolscar
-- [ ] OlukaDenis/DTheme
-- [ ] ducky/duckster
-- [ ] janjoswig/Ducula
-- [ ] bmihaila/dustmod
-- [ ] pentago/dzhi-zsh-theme
-- [ ] fouladi/eckig
+- [!] isuke/droolscar
+- [x] OlukaDenis/DTheme
+- [x] ducky/duckster
+- [x] janjoswig/Ducula
+- [x] bmihaila/dustmod
+- [x] pentago/dzhi-zsh-theme
+- [x] fouladi/eckig
 - [x] erikfritas/efritas
-- [ ] inutano/eggshausted
-- [ ] eivmosn/eivmosn-omz
+- [x] inutano/eggshausted
+- [!] eivmosn/eivmosn-omz
 - [x] Elagoht/Elagoht.zsh-theme
-- [ ] jinseobhong/eleastic-zsh-theme
-- [ ] fjpalacios/elessar-theme
+- [x] jinseobhong/eleastic-zsh-theme
+- [x] fjpalacios/elessar-theme
 - [x] gacallea/elm-zsh-theme
 - [x] faycito/elsa
-- [ ] lxynox/emojeer-ohmyzsh
+- [x] lxynox/emojeer-ohmyzsh
 - [x] masaakifuruki/emoji.zsh-theme
-- [ ] Bergiu/emojirussell
-- [ ] qwelyt/endless-dog
-- [ ] w33tmaricich/enlightenment
-- [ ] leighmcculloch/zsh-theme-enormous
-- [ ] ekm507/erfan-zsh-theme
-- [ ] zimfw/eriner
-- [ ] eptaccio/eubw-oh-my-zsh-theme
-- [ ] relastle/eucalyptus
-- [ ] davydovanton/excess.zsh-theme
-- [ ] mangosmoothie/ez-pz
+- [!] Bergiu/emojirussell
+- [!] qwelyt/endless-dog
+- [x] w33tmaricich/enlightenment
+- [x] leighmcculloch/zsh-theme-enormous
+- [x] ekm507/erfan-zsh-theme
+- [x] zimfw/eriner
+- [x] eptaccio/eubw-oh-my-zsh-theme
+- [x] relastle/eucalyptus
+- [x] davydovanton/excess.zsh-theme
+- [x] mangosmoothie/ez-pz
 - [x] jottenlips/seasonal-zshthemes
-- [ ] sohnryang/fattyarrow
-- [ ] FDT2k/FDT2K-theme
+- [x] sohnryang/fattyarrow
+- [x] FDT2k/FDT2K-theme
 - [ ] master/feder.zsh-theme
-- [ ] molovo/filthy
-- [ ] Raniconduh/zshfish
-- [ ] sudorook/fishy-lite
-- [ ] akinjide/fishy2
-- [ ] RobertKozak/fluent-git
+- [x] molovo/filthy
+- [x] Raniconduh/zshfish
+- [x] sudorook/fishy-lite
+- [x] akinjide/fishy2
+- [x] RobertKozak/fluent-git
 - [x] jmg-duarte/flux-zsh
-- [ ] OpenReplyDE/zsh-forerunner
-- [ ] VGamezz19/oh-my-zsh-fortuity-theme
+- [x] OpenReplyDE/zsh-forerunner
+- [x] VGamezz19/oh-my-zsh-fortuity-theme
 - [x] ronmackley/frank-theme
-- [ ] bruino/friendly-fiesta
-- [ ] BakeRolls/frisk-arrow
+- [!] bruino/friendly-fiesta
+- [x] BakeRolls/frisk-arrow
 - [ ] master/frisk-red
-- [ ] fritzccc/fritz-zsh-theme
-- [ ] fiorillo/frlo
-- [ ] Ottootto2010/funkyberlin-zsh-theme
-- [ ] hectorpalmatellez/furio-theme
-- [ ] kb10uy/zsh-theme-furry-umbrella
-- [ ] gcaracuel/gaia.zsh-theme
-- [ ] x6r/gal
-- [ ] fecat233/garden
-- [ ] chauncey-garrett/zsh-prompt-garrett
-- [ ] nicolaracco/gawaine.zsh-theme
-- [ ] jtyr/gbt
-- [ ] ikelos/gentoo-zsh-theme
-- [ ] Fuzen-py/GeometryHostInfo
-- [ ] geometry-zsh/geometry
+- [x] fritzccc/fritz-zsh-theme
+- [!] fiorillo/frlo
+- [x] Ottootto2010/funkyberlin-zsh-theme
+- [x] hectorpalmatellez/furio-theme
+- [x] kb10uy/zsh-theme-furry-umbrella
+- [x] gcaracuel/gaia.zsh-theme
+- [x] x6r/gal
+- [x] fecat233/garden
+- [x] chauncey-garrett/zsh-prompt-garrett
+- [x] nicolaracco/gawaine.zsh-theme
+- [x] jtyr/gbt
+- [x] ikelos/gentoo-zsh-theme
+- [!] Fuzen-py/GeometryHostInfo
+- [x] geometry-zsh/geometry
 - [x] GerryLarios/gerry-prompt
-- [ ] lonr/ghoti
-- [ ] userhiren/oh-my-zsh-gideon-theme
-- [ ] gimbo/gimbo.zsh-theme
-- [ ] nralbrecht/gimmezsh
-- [ ] mdentremont/girazz
-- [ ] awgn/git-prompt
-- [ ] olivierverdier/zsh-git-prompt
-- [ ] woefe/git-prompt.zsh
+- [!] lonr/ghoti
+- [x] userhiren/oh-my-zsh-gideon-theme
+- [x] gimbo/gimbo.zsh-theme
+- [x] nralbrecht/gimmezsh
+- [!] mdentremont/girazz
+- [!] awgn/git-prompt
+- [x] olivierverdier/zsh-git-prompt
+- [x] woefe/git-prompt.zsh
 - [x] olets/git-prompt-kit
-- [ ] ZakharEl/git-simple-theme
-- [ ] mtully/gitsome
-- [ ] kimyvgy/gitstatus-zsh-theme
+- [x] ZakharEl/git-simple-theme
+- [x] mtully/gitsome
+- [x] kimyvgy/gitstatus-zsh-theme
 - [ ] themes/gitster.zsh-theme
-- [ ] zimfw/gitster
-- [ ] xakraz/gisterv2-zsh-theme
-- [ ] gk3000/gk3000-oh-my-zsh-theme
-- [ ] martnu/glimmer
+- [x] zimfw/gitster
+- [x] xakraz/gisterv2-zsh-theme
+- [x] gk3000/gk3000-oh-my-zsh-theme
+- [x] martnu/glimmer
 - [x] gndx/gndx-zsh-theme
-- [ ] PaoloneM/gnrnzh-zsh-theme
+- [x] PaoloneM/gnrnzh-zsh-theme
 - [x] goranvasic/gocilla-iterm-zsh
-- [ ] noxer/gops
-- [ ] evanthegrayt/grayt-zsh-theme
-- [ ] GriffinLedingham/griffin.zsh-theme
-- [ ] gersontpc/zsh-theme-grs
+- [x] noxer/gops
+- [x] evanthegrayt/grayt-zsh-theme
+- [x] GriffinLedingham/griffin.zsh-theme
+- [x] gersontpc/zsh-theme-grs
 - [x] hgaiser/gruvbox-zsh
-- [ ] sbugzu/gruvbox-zsh
+- [x] sbugzu/gruvbox-zsh
 - [x] guesswhozzz/guezwhoz-zshell
-- [ ] victorfsf/guri
-- [ ] bhilburn/hackersaurus
-- [ ] IgorHalfeld/halfeld-zsh-theme
-- [ ] 5m0k3r/zsh-themes
-- [ ] arturoalviar/hana-matcha-zsh-theme
+- [x] victorfsf/guri
+- [!] bhilburn/hackersaurus
+- [x] IgorHalfeld/halfeld-zsh-theme
+- [x] 5m0k3r/zsh-themes
+- [x] arturoalviar/hana-matcha-zsh-theme
 - [x] hanleylee/handy
-- [ ] kojole/hanpen.zsh-theme
+- [x] kojole/hanpen.zsh-theme
 - [ ] master/hapin.zsh-theme
-- [ ] haribo/omz-haribo-theme
-- [ ] fusion809/zsh-theme
+- [!] haribo/omz-haribo-theme
+- [x] fusion809/zsh-theme
 - [x] Moarram/headline-zsh-theme
-- [ ] gko/heart
+- [x] gko/heart
 - [ ] hedgehog1029/dfbb7e66511e2c399157
-- [ ] Hedroed/hedroed-bureau.zsh-theme
-- [ ] helb/helb.zshtheme
+- [x] Hedroed/hedroed-bureau.zsh-theme
+- [x] helb/helb.zshtheme
 - [x] bigdave/hematite
-- [ ] diogoazevedos/hexagon
-- [ ] fusion809/zsh-theme
-- [ ] hhktony/hhktony.zsh-theme
-- [ ] ucpr/hina
+- [x] diogoazevedos/hexagon
+- [x] fusion809/zsh-theme
+- [x] hhktony/hhktony.zsh-theme
+- [x] ucpr/hina
 - [x] haitaim/hip-fellow
-- [ ] hipstersmoothie/PowerlevelHipstersmoothie
-- [ ] sheerun/home
+- [x] hipstersmoothie/PowerlevelHipstersmoothie
+- [x] sheerun/home
 - [x] olets/hometown-prompt
-- [ ] oskarkrawczyk/honukai-iterm-zsh
-- [ ] nuimk/horizontal
-- [ ] fusion809/zsh-theme
-- [ ] emileswarts/horse-sh
+- [x] oskarkrawczyk/honukai-iterm-zsh
+- [x] nuimk/horizontal
+- [x] fusion809/zsh-theme
+- [!] emileswarts/horse-sh
 - [ ] hub23/c226b1c77446e099f7684b0d21c6b22a
 - [x] xxninjabunnyxx/hug-zsh
-- [ ] saravanabalagi/zsh-theme-humbled
-- [ ] xylous/hydrogen
-- [ ] willmendesneto/hyper-oh-my-zsh
-- [ ] tylerreckart/hyperzsh
-- [ ] KalebHawkins/ohmyzsh-IGeek-OSX
-- [ ] iamskok/iamskok.zsh-theme
-- [ ] aaqaishtyaq/iay
-- [ ] Lenart12/ice.zsh-theme
-- [ ] JamesConlan96/Icicle
-- [ ] Saleh7/igeek-zsh-theme
-- [ ] eugenk/zsh-prompt-iggy
-- [ ] igor9silva/zsh-theme
-- [ ] btd1337/iguanidae-zsh-theme
-- [ ] shabane/illusion
-- [ ] lopezator/lluvia-gitster
-- [ ] igormp/Imp
+- [x] saravanabalagi/zsh-theme-humbled
+- [x] xylous/hydrogen
+- [x] willmendesneto/hyper-oh-my-zsh
+- [x] tylerreckart/hyperzsh
+- [x] KalebHawkins/ohmyzsh-IGeek-OSX
+- [x] iamskok/iamskok.zsh-theme
+- [x] aaqaishtyaq/iay
+- [x] Lenart12/ice.zsh-theme
+- [x] JamesConlan96/Icicle
+- [x] Saleh7/igeek-zsh-theme
+- [x] eugenk/zsh-prompt-iggy
+- [x] igor9silva/zsh-theme
+- [x] btd1337/iguanidae-zsh-theme
+- [x] shabane/illusion
+- [x] lopezator/lluvia-gitster
+- [x] igormp/Imp
 - [x] jshiell/infernus-zsh-theme
-- [ ] hevi9/infoline-zsh-theme
+- [x] hevi9/infoline-zsh-theme
 - [ ] inthedeepspace/
-- [ ] zyphrus/intheloop-powerline
-- [ ] itsthatguy/itg.zsh-theme
-- [ ] ivyhjk/ohmyzsh-theme-ivy
-- [ ] Jsharkc/jacobin-zsh-theme
-- [ ] JakeHuneau/Jake.zsh-theme
-- [ ] jesusangelm/Jam-Zsh-Theme
-- [ ] jclementex/jc-zsh-theme
-- [ ] jasonlewis/jcl-zsh-theme
-- [ ] jeromescuggs/jerome-theme
-- [ ] JHLeeeMe/JHLeeeMe-Zsh-Theme
+- [x] zyphrus/intheloop-powerline
+- [x] itsthatguy/itg.zsh-theme
+- [x] ivyhjk/ohmyzsh-theme-ivy
+- [x] Jsharkc/jacobin-zsh-theme
+- [x] JakeHuneau/Jake.zsh-theme
+- [x] jesusangelm/Jam-Zsh-Theme
+- [x] jclementex/jc-zsh-theme
+- [!] jasonlewis/jcl-zsh-theme
+- [x] jeromescuggs/jerome-theme
+- [x] JHLeeeMe/JHLeeeMe-Zsh-Theme
 - [x] Jon-Schneider/jon.zsh-theme
-- [ ] tmjoseantonio/shrug-zsh-theme
-- [ ] zthxxx/jovial
-- [ ] jpegleg/zshrc
+- [x] tmjoseantonio/shrug-zsh-theme
+- [x] zthxxx/jovial
+- [x] jpegleg/zshrc
 - [x] JSextonn/js-magic
-- [ ] judgedim/oh-my-zsh-judgedim-theme
-- [ ] supertassu/another-theme
+- [x] judgedim/oh-my-zsh-judgedim-theme
+- [x] supertassu/another-theme
 - [x] DevinLeamy/just-around-the-corner
-- [ ] jeffwalter/zsh-jwalter
-- [ ] Jyumpp/jyumpp-zsh-theme
+- [x] jeffwalter/zsh-jwalter
+- [x] Jyumpp/jyumpp-zsh-theme
 - [x] h4ck3r0/kali-theme
-- [ ] kalsowerus/kalsowerus.zsh-theme
-- [ ] zaari/karu
-- [ ] Keloran/keloran.zsh-theme
-- [ ] notnek/zsh-theme
-- [ ] KevinParnell/Kevin-zsh
-- [ ] Kashugoyal/kgzsh
+- [x] kalsowerus/kalsowerus.zsh-theme
+- [x] zaari/karu
+- [x] Keloran/keloran.zsh-theme
+- [x] notnek/zsh-theme
+- [x] KevinParnell/Kevin-zsh
+- [x] Kashugoyal/kgzsh
 - [x] KidoThunder/kido-zsh-theme
-- [ ] kimwz/kimwz-oh-my-zsh-theme
-- [ ] folixg/kinda-fishy-theme
-- [ ] kdawson133/KirkDawson
+- [x] kimwz/kimwz-oh-my-zsh-theme
+- [x] folixg/kinda-fishy-theme
+- [x] kdawson133/KirkDawson
 - [x] rileytwo/kiss
-- [ ] prototype27/kketcham
-- [ ] dkorittki/korittg-zsh-theme
-- [ ] wendygaoyuan/kote-zsh-theme
-- [ ] sorenvonsarvort/kotterstep-zsh-theme
-- [ ] krak3n/zsh-theme
-- [ ] KrakenTheme/kraken-zsh
+- [!] prototype27/kketcham
+- [x] dkorittki/korittg-zsh-theme
+- [x] wendygaoyuan/kote-zsh-theme
+- [x] sorenvonsarvort/kotterstep-zsh-theme
+- [!] krak3n/zsh-theme
+- [x] KrakenTheme/kraken-zsh
 - [x] tigerjz32/kube-zsh-theme
-- [ ] kumavis/kumavis-zsh-theme
-- [ ] Kwpolska/kw.zsh-theme
-- [ ] arturoalviar/kyuu-zsh-theme
-- [ ] noplay/lagune
-- [ ] cdimascio/lambda-zsh-theme
+- [x] kumavis/kumavis-zsh-theme
+- [x] Kwpolska/kw.zsh-theme
+- [x] arturoalviar/kyuu-zsh-theme
+- [x] noplay/lagune
+- [x] cdimascio/lambda-zsh-theme
 - [ ] lambda-mod-zsh-theme/
 - [x] zalefin/lambda-blazinggit
 - [x] ergenekonyigit/lambda-gitster
-- [ ] sohnryang/lambda-minimal-theme
-- [ ] halfo/lambda-mod-zsh-theme
-- [ ] paimanbandi/lambda-p
-- [ ] marszall87/lambda-pure
-- [ ] vkaracic/lambdav-zsh-theme
-- [ ] seamile/lambda-zen
-- [ ] avillen/zsh-theme-lambder
+- [x] sohnryang/lambda-minimal-theme
+- [x] halfo/lambda-mod-zsh-theme
+- [x] paimanbandi/lambda-p
+- [x] marszall87/lambda-pure
+- [x] vkaracic/lambdav-zsh-theme
+- [x] seamile/lambda-zen
+- [x] avillen/zsh-theme-lambder
 - [x] LanikSJ/laniksj-zsh-theme
-- [ ] drewlustro/lazyprodigy-zsh-theme
-- [ ] Ghostrick/leafia-prompt
-- [ ] miekg/lean
+- [x] drewlustro/lazyprodigy-zsh-theme
+- [x] Ghostrick/leafia-prompt
+- [x] miekg/lean
 - [x] carlosvitr/lemon_zsh
 - [x] prince-an/Leon_zshTheme
-- [ ] gschnall/leverage
-- [ ] lewisflude/oh-my-lewis
-- [ ] lightbulb703/lightbulb-zsh-theme
-- [ ] lighthaus-theme/zsh
-- [ ] raphaelivan/lila-zsh-theme
+- [x] gschnall/leverage
+- [x] lewisflude/oh-my-lewis
+- [x] lightbulb703/lightbulb-zsh-theme
+- [x] lighthaus-theme/zsh
+- [!] raphaelivan/lila-zsh-theme
 - [x] aknackd/zsh-themes
-- [ ] yous/lime
-- [ ] shooteram/limpide
+- [x] yous/lime
+- [x] shooteram/limpide
 - [x] MrYazdan/zsh-linear-theme
 - [x] linkdevk/link-zsh-theme
-- [ ] patrick330602/linuxer
+- [x] patrick330602/linuxer
 - [x] andreshincapier/linuxero
-- [ ] nojhan/liquidprompt
+- [x] nojhan/liquidprompt
 - [x] bashelled/lish
 - [x] duffhd/lispy-zsh-theme
 - [x] RenoirTan/liver.zsh-theme
-- [ ] PsychoLlama/llama.zsh-theme
-- [ ] logico/logico-zsh-theme
+- [x] PsychoLlama/llama.zsh-theme
+- [x] logico/logico-zsh-theme
 - [ ] master/lone-star.zsh-theme
-- [ ] long263/longsilvern-zsh-theme
+- [x] long263/longsilvern-zsh-theme
 - [ ] zsh-lorond/
-- [ ] LudwigWS/my-zsh-theme
-- [ ] xueguangl23/luke_zsh_theme
-- [ ] mpyw/oh-my-zsh-lukerandall-extended
+- [x] LudwigWS/my-zsh-theme
+- [x] xueguangl23/luke_zsh_theme
+- [x] mpyw/oh-my-zsh-lukerandall-extended
 - [ ] main/lunachar.zsh-theme
-- [ ] alejandromume/macos-zsh-theme
+- [x] alejandromume/macos-zsh-theme
 - [x] MartinWie/ohmyzsh-theme-mad
-- [ ] zimfw/magicmace
-- [ ] IOsonoTAN/magico
-- [ ] nylo-andry/zsh-themes
-- [ ] carloscuesta/materialshell
-- [ ] pot-code/matrix-zsh-theme
-- [ ] mrobillard/matter-zsh-theme
-- [ ] vichargrave/mau
-- [ ] mbolis/mbolis-zsh-theme
-- [ ] MarioDena/MDmini
-- [ ] willghatch/zsh-megaprompt
-- [ ] deblauwetom/metalmajor-zsh-theme
-- [ ] Mexassi/mexassi-zsh-theme
+- [x] zimfw/magicmace
+- [!] IOsonoTAN/magico
+- [x] nylo-andry/zsh-themes
+- [x] carloscuesta/materialshell
+- [x] pot-code/matrix-zsh-theme
+- [x] mrobillard/matter-zsh-theme
+- [x] vichargrave/mau
+- [x] mbolis/mbolis-zsh-theme
+- [x] MarioDena/MDmini
+- [x] willghatch/zsh-megaprompt
+- [x] deblauwetom/metalmajor-zsh-theme
+- [x] Mexassi/mexassi-zsh-theme
 - [x] mh-firouzjaah/mh-fzj-oh-my-zsh-theme-v1
 - [x] michaelpass/michaelpass.zsh-theme
-- [ ] xlshiz/midin
+- [x] xlshiz/midin
 - [ ] mike-was-here-theme/
-- [ ] frodoslaw/milight-zsh
-- [ ] andrepolischuk/min
-- [ ] syndbg/mindful-space-zsh-theme
-- [ ] ysl2/mini-simple-zsh-prompt
-- [ ] Brolly0204/zsh-minima
-- [ ] ednikolenko/minima
-- [ ] 5amu/minimal-prompt
-- [ ] casalinovalerio/minimal-prompt
+- [x] frodoslaw/milight-zsh
+- [x] andrepolischuk/min
+- [x] syndbg/mindful-space-zsh-theme
+- [x] ysl2/mini-simple-zsh-prompt
+- [x] Brolly0204/zsh-minima
+- [x] ednikolenko/minima
+- [x] 5amu/minimal-prompt
+- [x] casalinovalerio/minimal-prompt
 - [ ] minimal/
-- [ ] subnixr/minimal
-- [ ] gdsrosa/minimal_improved
-- [ ] PatTheMav/minimal2
-- [ ] lknix/zsh-theme-minimalx
-- [ ] mbStavola/mira
+- [x] subnixr/minimal
+- [x] gdsrosa/minimal_improved
+- [x] PatTheMav/minimal2
+- [x] lknix/zsh-theme-minimalx
+- [x] mbStavola/mira
 - [ ] ohmyzsh-mirage-theme/
-- [ ] franbach/oh-my-deepin-miramare
-- [ ] misalabs/misa.zsh-theme
-- [ ] dekermendzhy/mixed-zsh-theme
-- [ ] mnml-theme/prompt
-- [ ] mochidaz/zsh-themes
-- [ ] mochidaz/zsh-themes
-- [ ] obrassard/moderno-zsh
-- [ ] saravanabalagi/zsh-theme-modesty
-- [ ] prikhi/molokai-powerline-zsh
+- [x] franbach/oh-my-deepin-miramare
+- [x] misalabs/misa.zsh-theme
+- [x] dekermendzhy/mixed-zsh-theme
+- [x] mnml-theme/prompt
+- [x] mochidaz/zsh-themes
+- [x] mochidaz/zsh-themes
+- [x] obrassard/moderno-zsh
+- [x] saravanabalagi/zsh-theme-modesty
+- [x] prikhi/molokai-powerline-zsh
 - [x] momoyo-droid/momoyo-zsh-theme
-- [ ] kagamilove0707/moonline.zsh
-- [ ] gagbo/moux
-- [ ] dotcode/multi-shell-repo-prompt
-- [ ] jan-auer/zsh-multiline
-- [ ] nksoff/muslim
-- [ ] THaGKI9/musy-zsh-theme
+- [x] kagamilove0707/moonline.zsh
+- [x] gagbo/moux
+- [x] dotcode/multi-shell-repo-prompt
+- [x] jan-auer/zsh-multiline
+- [x] nksoff/muslim
+- [x] THaGKI9/musy-zsh-theme
 - [x] liamm91/my-hl2
 - [ ] my-zsh-theme/
 - [ ] mzpt/
-- [ ] MaxUlysse/myzsh
-- [ ] honbey/mzt
-- [ ] tweekmonster/nanofish
-- [ ] nbrylevv/nbrylevv-zsh-theme
-- [ ] leovincentseles/nctu.zsh-theme
-- [ ] neewbee/neewbee.zsh-theme
+- [!] MaxUlysse/myzsh
+- [x] honbey/mzt
+- [x] tweekmonster/nanofish
+- [x] nbrylevv/nbrylevv-zsh-theme
+- [x] leovincentseles/nctu.zsh-theme
+- [x] neewbee/neewbee.zsh-theme
 - [x] algosuna/neon-potato
-- [ ] sahariko/neon
-- [ ] nyarla/zsh-theme-nerdish
-- [ ] nescalante/zsh-theme
-- [ ] davidsierradz/neurosimple-oh-my-zsh-theme
-- [ ] softmoth/zsh-prompt-newt
-- [ ] sebastienfilion/zsh.newton
-- [ ] meierjan/nextbike-zsh-theme
+- [x] sahariko/neon
+- [!] nyarla/zsh-theme-nerdish
+- [x] nescalante/zsh-theme
+- [x] davidsierradz/neurosimple-oh-my-zsh-theme
+- [x] softmoth/zsh-prompt-newt
+- [x] sebastienfilion/zsh.newton
+- [x] meierjan/nextbike-zsh-theme
 - [x] NicolaiRuckel/nidoranarion
-- [ ] nikitakot/nikitakot-oh-my-zsh-theme
-- [ ] wangyandong-ningxia/ningxia.zsh-theme
-- [ ] aanc/oh-my-zsh-nknu-theme
-- [ ] nmaxcom/nmaxcom-zsh-theme
-- [ ] skuridin/oh-my-zsh-node-theme
-- [ ] marszall87/nodeys-zsh-theme
-- [ ] silky/noon.zsh-theme
-- [ ] TyWR/Nord-zsh
+- [x] nikitakot/nikitakot-oh-my-zsh-theme
+- [x] wangyandong-ningxia/ningxia.zsh-theme
+- [x] aanc/oh-my-zsh-nknu-theme
+- [x] nmaxcom/nmaxcom-zsh-theme
+- [x] skuridin/oh-my-zsh-node-theme
+- [x] marszall87/nodeys-zsh-theme
+- [x] silky/noon.zsh-theme
+- [x] TyWR/Nord-zsh
 - [x] normanius/normanius-zsh-theme
-- [ ] eendroroy/nothing
-- [ ] kbrsh/nox
-- [ ] lenguyenthanh/nt9-oh-my-zsh-theme
-- [ ] nunorc/nunorc.zsh-theme
-- [ ] Nuqlear/nuqlezsh.zsh-theme
-- [ ] rafaelsq/nuts.zsh-theme
+- [x] eendroroy/nothing
+- [x] kbrsh/nox
+- [x] lenguyenthanh/nt9-oh-my-zsh-theme
+- [x] nunorc/nunorc.zsh-theme
+- [x] Nuqlear/nuqlezsh.zsh-theme
+- [x] rafaelsq/nuts.zsh-theme
 - [x] Ansimorph/oblong
 - [ ] zsh-theme-odie/
-- [ ] tylerreckart/odin
-- [ ] Flower7C3/oh-flowers-zsh-theme
-- [ ] arialdomartini/oh-my-git
+- [x] tylerreckart/odin
+- [x] Flower7C3/oh-flowers-zsh-theme
+- [x] arialdomartini/oh-my-git
 - [ ] ohmyposh.dev/
-- [ ] badouralix/oh-my-via
-- [ ] joselpadronc/OhMyPC
-- [ ] sirshikher/zsh-om
+- [x] badouralix/oh-my-via
+- [x] joselpadronc/OhMyPC
+- [x] sirshikher/zsh-om
 - [x] MU001999/omszt
-- [ ] ouuan/omuse-zsh-theme
-- [ ] andres-ortizl/ortiz-zsh-theme
+- [x] ouuan/omuse-zsh-theme
+- [x] andres-ortizl/ortiz-zsh-theme
 - [x] guesswhozzz/guezwhoz-zsh-theme
 - [x] ThemysciraData/owczarczak.zsh-theme
 - [ ] zsh-theme/
-- [ ] owenstranathan/owiewestside.zsh-theme
+- [x] owenstranathan/owiewestside.zsh-theme
 - [ ] themes/oxide.zsh-theme
-- [ ] sfabrizio/ozono-zsh-theme
-- [ ] iboyperson/p9k-theme-pastel
-- [ ] eproxus/pad.zsh-theme
-- [ ] SLIB53/page-zsh-theme
-- [ ] jenssegers/palenight.zsh-theme
-- [ ] rhklite/palenight_zsh_theme
-- [ ] davymai/oh-my-zsh-panda-theme
-- [ ] erikschreier/PaperColor-themes
-- [ ] ChesterYue/ohmyzsh-theme-passion
-- [ ] iboyperson/pastel
+- [x] sfabrizio/ozono-zsh-theme
+- [x] iboyperson/p9k-theme-pastel
+- [x] eproxus/pad.zsh-theme
+- [x] SLIB53/page-zsh-theme
+- [x] jenssegers/palenight.zsh-theme
+- [x] rhklite/palenight_zsh_theme
+- [x] davymai/oh-my-zsh-panda-theme
+- [!] erikschreier/PaperColor-themes
+- [x] ChesterYue/ohmyzsh-theme-passion
+- [x] iboyperson/pastel
 - [x] pecodez/pecodez-zsh-theme
 - [x] sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters
-- [ ] persiliao/persi-zsh-theme
-- [ ] d-danilov/phalanx-zsh-theme
-- [ ] phantomk/phantomk.zsh-theme
-- [ ] LasaleFamine/phi-zsh-theme
-- [ ] tobyjamesthomas/pi
+- [x] persiliao/persi-zsh-theme
+- [x] d-danilov/phalanx-zsh-theme
+- [x] phantomk/phantomk.zsh-theme
+- [x] LasaleFamine/phi-zsh-theme
+- [x] tobyjamesthomas/pi
 - [x] sflems/piboy-zsh-theme
 - [x] purveshpatel511/plain-ui
-- [ ] jimeh/plain.zsh-theme
-- [ ] borb/planet-zsh
-- [ ] tobiaseichert/plankton-zsh-theme
+- [x] jimeh/plain.zsh-theme
+- [!] borb/planet-zsh
+- [x] tobiaseichert/plankton-zsh-theme
 - [x] totoroot/plantyhoe.zsh-theme
-- [ ] fdv/platypus
-- [ ] gpinkard/pointer-zsh-theme
-- [ ] agkozak/polyglot
-- [ ] RainyDayMedia/oh-my-zsh-poncho
-- [ ] vishaltelangre/poor-programmer.zsh-theme
-- [ ] erikschreier/powerbash-zsh
-- [ ] martinrotter/powerless
-- [ ] romkatv/powerlevel10k
-- [ ] bhilburn/powerlevel9k
-- [ ] hipstersmoothie/PowerlevelHipstersmoothie
-- [ ] brucehsu/oh-my-zsh-powerline-theme
-- [ ] jeremyFreeAgent/oh-my-zsh-powerline-theme
-- [ ] syui/powerline.zsh
-- [ ] dogrocker/oh-my-zsh-powerline-cute-theme
+- [x] fdv/platypus
+- [x] gpinkard/pointer-zsh-theme
+- [x] agkozak/polyglot
+- [x] RainyDayMedia/oh-my-zsh-poncho
+- [x] vishaltelangre/poor-programmer.zsh-theme
+- [x] erikschreier/powerbash-zsh
+- [x] martinrotter/powerless
+- [x] romkatv/powerlevel10k
+- [x] bhilburn/powerlevel9k
+- [x] hipstersmoothie/PowerlevelHipstersmoothie
+- [x] brucehsu/oh-my-zsh-powerline-theme
+- [x] jeremyFreeAgent/oh-my-zsh-powerline-theme
+- [x] syui/powerline.zsh
+- [x] dogrocker/oh-my-zsh-powerline-cute-theme
 - [x] justjanne/powerline-go
-- [ ] rdnetto/powerline-hs
-- [ ] lucasqueiroz/powerline-pills-zsh
-- [ ] b-ryan/powerline-shell
-- [ ] b-ryan/powerline-shell
-- [ ] sherubthakur/powerline-train
-- [ ] carlcarl/powerline-zsh
+- [!] rdnetto/powerline-hs
+- [x] lucasqueiroz/powerline-pills-zsh
+- [x] b-ryan/powerline-shell
+- [x] b-ryan/powerline-shell
+- [x] sherubthakur/powerline-train
+- [x] carlcarl/powerline-zsh
 - [x] primejade/powermore-zsh
-- [ ] sevaho/Powerzeesh
-- [ ] leandromatos/pre-theme
-- [ ] jamiewilson/predawn-shell
-- [ ] klaude/prezto-cloud-prompt
-- [ ] nixolas1/prezto-lambda
-- [ ] davidjrice/prezto_powerline
-- [ ] probe2k/probe_zsh
-- [ ] Valodim/zsh-prompt-powerline
-- [ ] nathanblair/prompt
-- [ ] malinoskj2/prompt_j2
-- [ ] willeccles/promptus
-- [ ] jthat/zsh-pronto
-- [ ] jwodder/ps1.py
-- [ ] pskfyi/zsh-theme
-- [ ] dannynimmo/punctual-zsh-theme
-- [ ] yourfin/pure-agnoster
-- [ ] sindresorhus/pure
-- [ ] banminkyoz/purify
-- [ ] kyoz/purify
-- [ ] petermbenjamin/purity
-- [ ] xcambar/purs
-- [ ] Pustelto/shell_theme
-- [ ] nichus/qi3ber2
-- [ ] qoomon/zsh-theme-qoomon
+- [x] sevaho/Powerzeesh
+- [x] leandromatos/pre-theme
+- [x] jamiewilson/predawn-shell
+- [x] klaude/prezto-cloud-prompt
+- [x] nixolas1/prezto-lambda
+- [x] davidjrice/prezto_powerline
+- [x] probe2k/probe_zsh
+- [!] Valodim/zsh-prompt-powerline
+- [x] nathanblair/prompt
+- [!] malinoskj2/prompt_j2
+- [x] willeccles/promptus
+- [x] jthat/zsh-pronto
+- [x] jwodder/ps1.py
+- [x] pskfyi/zsh-theme
+- [x] dannynimmo/punctual-zsh-theme
+- [x] yourfin/pure-agnoster
+- [x] sindresorhus/pure
+- [x] banminkyoz/purify
+- [x] kyoz/purify
+- [x] petermbenjamin/purity
+- [x] xcambar/purs
+- [x] Pustelto/shell_theme
+- [x] nichus/qi3ber2
+- [x] qoomon/zsh-theme-qoomon
 - [x] kauefontes/oh-my-quewui
-- [ ] r3nic1e/r3nic1e
-- [ ] elboletaire/zsh-theme-racotecnic
-- [ ] dimitardimitrov/radium
+- [!] r3nic1e/r3nic1e
+- [x] elboletaire/zsh-theme-racotecnic
+- [x] dimitardimitrov/radium
 - [x] erikcc02/radius-zsh-theme
-- [ ] akabiru/rafiki-zsh
+- [x] akabiru/rafiki-zsh
 - [x] aknackd/zsh-themes
-- [ ] parwat08/random-emoji-robbyrussell
+- [x] parwat08/random-emoji-robbyrussell
 - [ ] oshybystyi/2c30543cd48b2c9ecab0
-- [ ] fdw/ranger-zoxide
+- [!] fdw/ranger-zoxide
 - [x] MaxMalinowski/raspberrysh
-- [ ] Raytek/raytek-zsh-theme
+- [x] Raytek/raytek-zsh-theme
 - [x] razman786/ohmyzsh-theme-raz
-- [ ] rberenguel/rb-zsh-theme
-- [ ] rbjorklin/rbjorklin-zsh-theme
-- [ ] DrissTM/redline.zsh-theme
+- [x] rberenguel/rb-zsh-theme
+- [x] rbjorklin/rbjorklin-zsh-theme
+- [x] DrissTM/redline.zsh-theme
 - [x] refpx/refpx-zsh-theme
-- [ ] nmercado1986/zsh-reggae-theme
-- [ ] arturoalviar/rei-zsh-theme
+- [x] nmercado1986/zsh-reggae-theme
+- [x] arturoalviar/rei-zsh-theme
 - [ ] rei/
-- [ ] Remiii/remiii.zsh-theme
-- [ ] remolueoend/remolueoend.zsh-theme
+- [x] Remiii/remiii.zsh-theme
+- [!] remolueoend/remolueoend.zsh-theme
 - [x] andrejreznik/rho-zsh-theme
-- [ ] tactlessfish/ribbon-prompt
-- [ ] waddupp00/risbow
-- [ ] revir/river-zsh-config
-- [ ] YuyeQingshan/robbyolivier
+- [x] tactlessfish/ribbon-prompt
+- [x] waddupp00/risbow
+- [x] revir/river-zsh-config
+- [x] YuyeQingshan/robbyolivier
 - [x] ecbrodie/robbyrussell-WIP-theme
 - [x] toytag/robbyrussell-fullpath.zsh-theme
 - [x] jackjyq/robbyrussell-plus-zsh-theme
 - [x] Alexandresl/rocket-zsh-theme
-- [ ] RougarouTheme/rougarou-zsh
+- [x] RougarouTheme/rougarou-zsh
 - [x] daniilty/rounded-zsh-theme
 - [x] nullxception/roundy
 - [x] rozNum/roz-zsh-theme
 - [x] rogeliosamuel621/rs-zsh-theme
-- [ ] runarsf/rufus-zsh-theme
-- [ ] rummik/zsh-theme
-- [ ] russtone/prompt-russtone
-- [ ] DoctorRyner/ryner-zsh-theme
-- [ ] patwhatev/rzh
-- [ ] zimfw/s1ck94
-- [ ] Samega7Cattac/s7c.zsh-theme
-- [ ] samuelb/samshell
-- [ ] ruisaraiva19/saraiva-theme
+- [x] runarsf/rufus-zsh-theme
+- [x] rummik/zsh-theme
+- [x] russtone/prompt-russtone
+- [x] DoctorRyner/ryner-zsh-theme
+- [!] patwhatev/rzh
+- [x] zimfw/s1ck94
+- [x] Samega7Cattac/s7c.zsh-theme
+- [x] samuelb/samshell
+- [x] ruisaraiva19/saraiva-theme
 - [x] gantoreno/saturn-prompt
-- [ ] mashdots/schminitz-v2
+- [x] mashdots/schminitz-v2
 - [ ] schminitz/9931af23bbb59e772eec
 - [x] kostoskistefan/scythe
-- [ ] matthieusb/zsh-sdkman
+- [x] matthieusb/zsh-sdkman
 - [x] jottenlips/seasonal-zshthemes
-- [ ] tonyseek/oh-my-zsh-seeker-theme
-- [ ] GrantSeltzer/seltzer.zsh-theme
-- [ ] hiroru/senpai-zsh
-- [ ] sepehr/sepshell
-- [ ] oliversandli/serious-zsh-theme
-- [ ] ginfuru/iTerm-Seti_UX
-- [ ] mreinhardt/sfz-prompt.zsh
+- [x] tonyseek/oh-my-zsh-seeker-theme
+- [x] GrantSeltzer/seltzer.zsh-theme
+- [x] hiroru/senpai-zsh
+- [x] sepehr/sepshell
+- [!] oliversandli/serious-zsh-theme
+- [x] ginfuru/iTerm-Seti_UX
+- [!] mreinhardt/sfz-prompt.zsh
 - [x] agentshadow/shadow-zsh-theme
-- [ ] shayanh/shayan-zsh-theme
-- [ ] athul/shelby
-- [ ] simnalamburt/shellder
-- [ ] arturoalviar/shichi-zsh-theme
+- [x] shayanh/shayan-zsh-theme
+- [x] athul/shelby
+- [x] simnalamburt/shellder
+- [x] arturoalviar/shichi-zsh-theme
 - [x] bashelled/shini
-- [ ] shirnschall/shirnschall-zsh-theme
-- [ ] ericvanjohnson/shocm-zsh-themes
-- [ ] OREOmini/short-ys-zsh-theme
-- [ ] shr1k4nt/shrikant_zsh_theme
-- [ ] tmjoseantonio/shrug-zsh-theme
-- [ ] kyle-pollock/shtr0m
+- [x] shirnschall/shirnschall-zsh-theme
+- [x] ericvanjohnson/shocm-zsh-themes
+- [x] OREOmini/short-ys-zsh-theme
+- [x] shr1k4nt/shrikant_zsh_theme
+- [x] tmjoseantonio/shrug-zsh-theme
+- [x] kyle-pollock/shtr0m
 - [ ] Shuttle/
-- [ ] siegerts/zsh-theme
-- [ ] reujab/silver
-- [ ] m-lima/simpalt
+- [x] siegerts/zsh-theme
+- [x] reujab/silver
+- [x] m-lima/simpalt
 - [x] DaopengZ/simple-zsh-theme
-- [ ] pavdmyt/simple-oh-my-zsh-theme
-- [ ] rkitover/sh-prompt-simple
-- [ ] Savecoders/simpleTheme-zsh-theme
-- [ ] tourcoder/simple.zsh-theme
-- [ ] yhiraki/zsh-simple-prompt
-- [ ] iwat/simple-agnoster.zsh-theme
-- [ ] BazaJayGee66/simple-git-theme
+- [x] pavdmyt/simple-oh-my-zsh-theme
+- [x] rkitover/sh-prompt-simple
+- [x] Savecoders/simpleTheme-zsh-theme
+- [x] tourcoder/simple.zsh-theme
+- [x] yhiraki/zsh-simple-prompt
+- [x] iwat/simple-agnoster.zsh-theme
+- [x] BazaJayGee66/simple-git-theme
 - [x] mathiasmoeller/simple-yet-beautiful-zsh-theme
-- [ ] fr0zn/simplezsh
-- [ ] k-kinzal/oh-my-zsh-sinon-theme
+- [x] fr0zn/simplezsh
+- [x] k-kinzal/oh-my-zsh-sinon-theme
 - [x] svensen/sit.zsh-theme
-- [ ] sixlive/sixlive-zsh-theme
-- [ ] skeiter9/sk9-zsh
-- [ ] ramonmcros/skeletor-syntax
+- [x] sixlive/sixlive-zsh-theme
+- [!] skeiter9/sk9-zsh
+- [x] ramonmcros/skeletor-syntax
 - [x] ASafaeirad/oh-my-zsh-skill-theme
 - [x] frontendmonster/oh-my-zsh-skill-theme
-- [ ] tahadostifam/skull-zsh
-- [ ] godbout/sleeplessmind-zsh-theme
-- [ ] nbari/slick
-- [ ] mengelbrecht/slimline
-- [ ] blyndusk/sm-theme
-- [ ] Sokkam/small-terminal-diy-theme
-- [ ] gsamokovarov/smiley.zsh-theme
+- [!] tahadostifam/skull-zsh
+- [x] godbout/sleeplessmind-zsh-theme
+- [x] nbari/slick
+- [x] mengelbrecht/slimline
+- [x] blyndusk/sm-theme
+- [x] Sokkam/small-terminal-diy-theme
+- [x] gsamokovarov/smiley.zsh-theme
 - [x] angelina-tsuboi/snowflake-zsh-theme
-- [ ] sobolevn/sobole-zsh-theme
-- [ ] KuoE0/oh-my-zsh-solarized-powerline-theme
-- [ ] houjunchen/solarized-powerline
-- [ ] paddykontschak/Solarizsh
-- [ ] denysdovhan/spaceship-prompt
+- [x] sobolevn/sobole-zsh-theme
+- [x] KuoE0/oh-my-zsh-solarized-powerline-theme
+- [x] houjunchen/solarized-powerline
+- [!] paddykontschak/Solarizsh
+- [x] denysdovhan/spaceship-prompt
 - [ ] spowerline/
-- [ ] FajarKim/spyrhoo-zsh-theme
+- [x] FajarKim/spyrhoo-zsh-theme
 - [ ] master/themes
-- [ ] hugoh/zsh-ssfprompt
-- [ ] dersam/staples
-- [ ] prdpx7/Starboy
+- [x] hugoh/zsh-ssfprompt
+- [x] dersam/staples
+- [x] prdpx7/Starboy
 - [ ] starship.rs/
-- [ ] el1t/statusline
-- [ ] danihodovic/steeef
-- [ ] zimfw/steeef
+- [x] el1t/statusline
+- [x] danihodovic/steeef
+- [x] zimfw/steeef
 - [x] erwanjugand/steeple-zsh-theme
 - [ ] main/stellachar.zsh-theme
-- [ ] pjmp/sublime
-- [ ] cbrock/sugar-free
-- [ ] sukeesh/sukeesh-zsh-theme
+- [x] pjmp/sublime
+- [x] cbrock/sugar-free
+- [x] sukeesh/sukeesh-zsh-theme
 - [x] Sulfurium/zsh-theme
-- [ ] ston1x/sunrise-ruby
-- [ ] Minipada/superkolo
-- [ ] carcruz/susi-zsh-iterm
-- [ ] SvS30/svs-theme
-- [ ] ttttmr/sy-zsh-theme
-- [ ] t2er/t2er-zsh-theme
-- [ ] bvc3at/tabaf-zsh-theme
+- [x] ston1x/sunrise-ruby
+- [x] Minipada/superkolo
+- [x] carcruz/susi-zsh-iterm
+- [x] SvS30/svs-theme
+- [x] ttttmr/sy-zsh-theme
+- [x] t2er/t2er-zsh-theme
+- [x] bvc3at/tabaf-zsh-theme
 - [x] filiptoma/temeraf-zsh
-- [ ] thingerpig/tepig-ys.zsh-theme
-- [ ] rooted-cyber/Termux-zsh-theme
-- [ ] patrick330602/termuxer
-- [ ] jhwhite/the-time-lord
-- [ ] yw9381/oh-my-zsh_theme_line
-- [ ] jesec/zsh_theme_theta-async
-- [ ] eendroroy/theta
-- [ ] heyvito/theto-zsh-theme
-- [ ] bassopenguin/thetraveler
-- [ ] thnikk/zsh-theme-thnikk
+- [x] thingerpig/tepig-ys.zsh-theme
+- [x] rooted-cyber/Termux-zsh-theme
+- [x] patrick330602/termuxer
+- [!] jhwhite/the-time-lord
+- [x] yw9381/oh-my-zsh_theme_line
+- [x] jesec/zsh_theme_theta-async
+- [x] eendroroy/theta
+- [x] heyvito/theto-zsh-theme
+- [x] bassopenguin/thetraveler
+- [x] thnikk/zsh-theme-thnikk
 - [x] chenhao-ye/thyme
-- [ ] kawamurakazushi/thyme
-- [ ] mmatongo/toledo
-- [ ] AndreyPuzanov/tonni4-zsh-theme
-- [ ] fudyartanto/topan-theme-oh-my-zsh
-- [ ] kitian616/tq-zsh-theme
-- [ ] fcce/traffic-zsh-theme
-- [ ] denisinla/trajan-zsh-theme
-- [ ] de-luca/Trinity
+- [x] kawamurakazushi/thyme
+- [x] mmatongo/toledo
+- [x] AndreyPuzanov/tonni4-zsh-theme
+- [x] fudyartanto/topan-theme-oh-my-zsh
+- [x] kitian616/tq-zsh-theme
+- [x] fcce/traffic-zsh-theme
+- [x] denisinla/trajan-zsh-theme
+- [x] de-luca/Trinity
 - [x] iDoTron/tron-zsh-theme
-- [ ] nylo-andry/zsh-themes
-- [ ] eikendev/turs
-- [ ] thvitt/tvline
-- [ ] Henryws/twilight-prompt
-- [ ] MikereDD/type0_zsh-theme
+- [x] nylo-andry/zsh-themes
+- [!] eikendev/turs
+- [x] thvitt/tvline
+- [x] Henryws/twilight-prompt
+- [x] MikereDD/type0_zsh-theme
 - [x] reobin/typewritten
-- [ ] alejandromume/ubunly-zsh-theme
-- [ ] Thesola10/zsh-ubuntu-ish
-- [ ] ureesoriano/zsh-ubuntu-with-vitamins-zim-theme
-- [ ] janstuemmel/zsh-ubuntu-theme
-- [ ] b4b4r07/ultimate
+- [!] alejandromume/ubunly-zsh-theme
+- [x] Thesola10/zsh-ubuntu-ish
+- [!] ureesoriano/zsh-ubuntu-with-vitamins-zim-theme
+- [x] janstuemmel/zsh-ubuntu-theme
+- [x] b4b4r07/ultimate
 - [x] Ultimator14/ultimator-zsh-theme
-- [ ] nerdbude/Unit-1
-- [ ] avano/vanan-zsh-theme
-- [ ] vercel/zsh-theme
-- [ ] TheRojam/vertepommes-theme
-- [ ] vinhnx/vinhnx.zsh-theme
+- [x] nerdbude/Unit-1
+- [x] avano/vanan-zsh-theme
+- [x] vercel/zsh-theme
+- [x] TheRojam/vertepommes-theme
+- [x] vinhnx/vinhnx.zsh-theme
 - [ ] img/preview.png
 - [x] rwejdling/voidy
 - [x] Bruceboy/vulcan-zsh-theme
-- [ ] wadehammes/wade.zsh-theme
-- [ ] 0532/wang-iterm-zsh
-- [ ] whalesea520/whale-zsh-theme
+- [x] wadehammes/wade.zsh-theme
+- [x] 0532/wang-iterm-zsh
+- [x] whalesea520/whale-zsh-theme
 - [x] lbergelson/zsh_whales_theme
-- [ ] mashaal/wild-cherry
-- [ ] khuei/winline
+- [x] mashaal/wild-cherry
+- [x] khuei/winline
 - [x] wkentaro/wkentaro.zsh-theme
-- [ ] afnizarnur/work-line
-- [ ] u8slvn/oh-my-zsh-workbench-theme
+- [x] afnizarnur/work-line
+- [!] u8slvn/oh-my-zsh-workbench-theme
 - [x] ann-kilzer/annkilzer.zsh-theme
-- [ ] thaffenden/wynwyn.zsh-theme
+- [x] thaffenden/wynwyn.zsh-theme
 - [x] onthedock/xavi.zsh-theme
-- [ ] xuelingkang/xlk-simple-zsh-theme
-- [ ] Shiaoming/xm
+- [x] xuelingkang/xlk-simple-zsh-theme
+- [x] Shiaoming/xm
 - [x] xor3n/xor-zsh-theme
-- [ ] xremix/oh-my-zsh-xremix-theme
-- [ ] ivan-ristovic/xris47.zsh-theme
+- [x] xremix/oh-my-zsh-xremix-theme
+- [x] ivan-ristovic/xris47.zsh-theme
 - [ ] xfanwu/18fd7c24360c68bab884
-- [ ] yaireclipse/yairshefi-ohmyzsh-theme
+- [x] yaireclipse/yairshefi-ohmyzsh-theme
 - [x] jakshin/yazpt
-- [ ] liyechen/yechen.zsh-theme
-- [ ] jeetelongname/Yeet-theme
+- [x] liyechen/yechen.zsh-theme
+- [x] jeetelongname/Yeet-theme
 - [x] menyinch/yindev-zsh-theme
 - [ ] master/ykmam.zsh-theme
-- [ ] cristiancavalli/ys-zsh-custom-theme
-- [ ] tinyRatP/ys
-- [ ] AndiH/oh-my-zsh-ys-cluster-theme
-- [ ] hanbinpro/ysm-zsh-theme
-- [ ] raykle/ysr-zsh-theme
-- [ ] yuki-torii/yuki-zsh-theme
-- [ ] hylwxqwq/yuyuko.zsh-theme
-- [ ] yunyuliu/yyl-ys.zsh-theme
-- [ ] lacanlale/yz50-zsh
-- [ ] inimicus/z4rr3t
+- [!] cristiancavalli/ys-zsh-custom-theme
+- [x] tinyRatP/ys
+- [x] AndiH/oh-my-zsh-ys-cluster-theme
+- [x] hanbinpro/ysm-zsh-theme
+- [x] raykle/ysr-zsh-theme
+- [x] yuki-torii/yuki-zsh-theme
+- [x] hylwxqwq/yuyuko.zsh-theme
+- [x] yunyuliu/yyl-ys.zsh-theme
+- [x] lacanlale/yz50-zsh
+- [x] inimicus/z4rr3t
 - [x] cpea2506/zcraft
-- [ ] SuperKnerdBros/zelda.zsh-theme
-- [ ] aranasaurus/zemm-blinks.zsh-theme
-- [ ] therzka/zemoji
+- [x] SuperKnerdBros/zelda.zsh-theme
+- [!] aranasaurus/zemm-blinks.zsh-theme
+- [x] therzka/zemoji
 - [x] cybardev/zen.zsh
-- [ ] arlimus/zero.zsh
-- [ ] zeroastro/zeroastro-zsh-theme
+- [x] arlimus/zero.zsh
+- [x] zeroastro/zeroastro-zsh-theme
 - [x] ZeroPoke/ZeroCake.zsh-theme
-- [ ] hash-bang/zsh-theme-zest
-- [ ] skylerlee/zeta-zsh-theme
-- [ ] robobenklein/zinc
-- [ ] wdhg/zlambda
+- [x] hash-bang/zsh-theme-zest
+- [x] skylerlee/zeta-zsh-theme
+- [x] robobenklein/zinc
+- [x] wdhg/zlambda
 - [x] adamalsen/zsh-zodiac
-- [ ] z-shell/zprompts
-- [ ] ladychili/zqt-zsh-theme
+- [x] z-shell/zprompts
+- [x] ladychili/zqt-zsh-theme
 - [x] DTan13/zsh1999
-- [ ] consolemaverick/zsh2000
-- [ ] amirali313/zsh313-theme
-- [ ] landongn/zshcomrade
-- [ ] nrjdalal/zshify
+- [x] consolemaverick/zsh2000
+- [x] amirali313/zsh313-theme
+- [x] landongn/zshcomrade
+- [x] nrjdalal/zshify
 - [x] snakypy/zshpower
-- [ ] redxtech/zshred
-- [ ] naens/zwsh
-- [ ] ZYSzys/zys-zsh-theme
-- [ ] thezzisu/zzshell
+- [x] redxtech/zshred
+- [!] naens/zwsh
+- [x] ZYSzys/zys-zsh-theme
+- [x] thezzisu/zzshell
