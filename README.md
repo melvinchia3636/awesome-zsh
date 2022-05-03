@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<center><h1 align="center">🗄 Git Dev Info</h1></center>
 
-## Getting Started
+<p align="center">Everything you need to customize your terminal.</p>
 
-First, run the development server:
+## The Problem
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+ZSH provides great flexibility to customize your experience on it. However, one problem that annoys me is that all the resources (plugins, themes, etc.) are decentralized, and sometimes hard to find what you want.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## The Solution
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+I've done numerous researches on customizing terminals and put everything I found into a single easy-to-use website.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🖥 Screenshots
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<div>
 
-## Learn More
+  <img width="49%" alt="Screenshot 2022-05-03 at 11 00 22 AM" src="https://user-images.githubusercontent.com/64565584/166399908-bc8e9496-b292-4197-9dd3-6d6b418994c7.png">
+  <img width="49%" alt="Screenshot 2022-05-03 at 11 00 36 AM" src="https://user-images.githubusercontent.com/64565584/166399918-5c416e89-30f0-4b4f-9618-b437840faa5d.png">
 
-To learn more about Next.js, take a look at the following resources:
+  
+</div>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔬 Technologies Used 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![skills](https://img.shields.io/badge/-JAVASCRIPT-FF0000?style=for-the-badge&logo=javascript&logoColor=white&color=red)
+![skills](https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white&color=green)
+![skills](https://img.shields.io/badge/-CSS-FF0000?style=for-the-badge&logo=css3&logoColor=white&color=indigo)
+![skills](https://img.shields.io/badge/-TAILWIND_CSS-FF0000?style=for-the-badge&logo=tailwindcss&logoColor=white&color=22D3EE)
+![skills](https://img.shields.io/badge/-NEXT_JS-FF0000?style=for-the-badge&logo=vercel&logoColor=white&color=black)
+![skills](https://img.shields.io/badge/-FIGMA-FF0000?style=for-the-badge&logo=figma&logoColor=white&color=red)
+![skills](https://img.shields.io/badge/-PYTHON-FF0000?style=for-the-badge&logo=python&logoColor=white&color=yellow)
 
-## Deploy on Vercel
+## ⌨️ Setup
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+If you want to run the website on your local machine:
+1. Clone the repository: `git clone https://github.com/melvinchia3636/awesome-zsh`
+2. Install all required dependencies using `npm install`
+3. Run `npm run dev` and you're good to go.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📈 Status
+
+This project is still under development, new features are being added constantly. If any bugs are found, please file an issue here, and I'll resolve it ASAP.
+
+## 💡 Inspirations 
+
+This project was inspired by Unixorn' ![Awesome ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins), which is a repository that documents lots of great plugins, frameworks, themes, etc. that you can use to customize your terminal. But for a new comer, this might be too much for them.
+ 
+## 📄 License
+
+Copyright © 2022 Melvin Chia<br/>
+Licensed under MIT.
