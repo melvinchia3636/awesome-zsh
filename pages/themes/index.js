@@ -1,16 +1,16 @@
 /* eslint-disable @next/next/no-img-element */
 import { Icon } from "@iconify/react";
 import React, { useState } from "react";
-import list from "../data.json";
+import list from "../../data/themes/data.json";
 import fs from "fs";
 import Head from "next/head";
 
 export function getStaticProps() {
   const data = fs
-    .readdirSync("./public/image")
+    .readdirSync("./public/images/themes")
     .filter((e) => e !== ".DS_Store")
     .map((e) =>
-      fs.readdirSync(`./public/image/${e}`).map((f) => `./image/${e}/${f}`)
+      fs.readdirSync(`./public/images/themes/${e}`).map((f) => `./images/themes/${e}/${f}`)
     );
   return {
     props: {
@@ -69,7 +69,7 @@ function Themes({ data }) {
               {data
                 .filter((e) => {
                   return (
-                    e[0].split("/")[2].replace(".", "/") ===
+                    e[0].split("/")[3].replace(".", "/") ===
                     link.replace("https://github.com/", "")
                   );
                 })[0]

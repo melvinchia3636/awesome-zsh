@@ -1,0 +1,436 @@
+@font-face {
+  font-family: agave;
+  src: url(../public/fonts/agave.ttf);
+}
+@font-face {
+  font-family: anka-coder;
+  src: url(../public/fonts/anka-coder.ttf);
+}
+@font-face {
+  font-family: anonymous-pro;
+  src: url(../public/fonts/anonymous-pro.ttf);
+}
+@font-face {
+  font-family: apl2741;
+  src: url(../public/fonts/apl2741.ttf);
+}
+@font-face {
+  font-family: apl385;
+  src: url(../public/fonts/apl385.ttf);
+}
+@font-face {
+  font-family: aurulent;
+  src: url(../public/fonts/aurulent.otf);
+}
+@font-face {
+  font-family: average;
+  src: url(../public/fonts/average.woff);
+}
+@font-face {
+  font-family: azeret;
+  src: url(../public/fonts/azeret.ttf);
+}
+@font-face {
+  font-family: b612-mono;
+  src: url(../public/fonts/b612-mono.ttf);
+}
+@font-face {
+  font-family: bedstead;
+  src: url(../public/fonts/bedstead.otf);
+}
+@font-face {
+  font-family: bigblue-terminal;
+  src: url(../public/fonts/bigblue-terminal.ttf);
+}
+@font-face {
+  font-family: binchotan-sharp;
+  src: url(../public/fonts/binchotan-sharp.ttf);
+}
+@font-face {
+  font-family: bitstream-vera;
+  src: url(../public/fonts/bitstream-vera.woff);
+}
+@font-face {
+  font-family: borg-sans-mono;
+  src: url(../public/fonts/borg-sans-mono.ttf);
+}
+@font-face {
+  font-family: bpmono;
+  src: url(../public/fonts/bpmono.woff);
+}
+@font-face {
+  font-family: bront-dejavu;
+  src: url(../public/fonts/bront-dejavu.ttf);
+}
+@font-face {
+  font-family: bront-ubuntu;
+  src: url(../public/fonts/bront-ubuntu.ttf);
+}
+@font-face {
+  font-family: camingocode;
+  src: url(../public/fonts/camingocode.woff);
+}
+@font-face {
+  font-family: cartograph;
+  src: url(../public/fonts/cartograph.woff);
+}
+@font-face {
+  font-family: cascadia-code;
+  src: url(../public/fonts/cascadia-code.ttf);
+}
+@font-face {
+  font-family: code-new-roman;
+  src: url(../public/fonts/code-new-roman.otf);
+}
+@font-face {
+  font-family: comic-shanns;
+  src: url(../public/fonts/comic-shanns.otf);
+}
+@font-face {
+  font-family: consolamono;
+  src: url(../public/fonts/consolamono.ttf);
+}
+@font-face {
+  font-family: courier-prime;
+  src: url(../public/fonts/courier-prime.ttf);
+}
+@font-face {
+  font-family: courier-prime-code;
+  src: url(../public/fonts/courier-prime-code.ttf);
+}
+@font-face {
+  font-family: cousine;
+  src: url(../public/fonts/cousine.woff);
+}
+@font-face {
+  font-family: cozette;
+  src: url(../public/fonts/cozette.woff);
+}
+@font-face {
+  font-family: cutive;
+  src: url(../public/fonts/cutive.ttf);
+}
+@font-face {
+  font-family: d2coding;
+  src: url(../public/fonts/d2coding.ttf);
+}
+@font-face {
+  font-family: daddytimemono;
+  src: url(../public/fonts/daddytimemono.ttf);
+}
+@font-face {
+  font-family: dejavu;
+  src: url(../public/fonts/dejavu.woff);
+}
+@font-face {
+  font-family: dm-mono-regular;
+  src: url(../public/fonts/dm-mono-regular.woff);
+}
+@font-face {
+  font-family: drafting;
+  src: url(../public/fonts/drafting.woff2);
+}
+@font-face {
+  font-family: droid-sans;
+  src: url(../public/fonts/droid-sans.woff);
+}
+@font-face {
+  font-family: edlo;
+  src: url(../public/fonts/edlo.ttf);
+}
+@font-face {
+  font-family: effects-eighty;
+  src: url(../public/fonts/effects-eighty.otf);
+}
+@font-face {
+  font-family: ellograph;
+  src: url(../public/fonts/ellograph.woff);
+}
+@font-face {
+  font-family: envy-code-r;
+  src: url(../public/fonts/envy-code-r.woff);
+}
+@font-face {
+  font-family: fairfax;
+  src: url(../public/fonts/fairfax.ttf);
+}
+@font-face {
+  font-family: fairfax-hd;
+  src: url(../public/fonts/fairfax-hd.ttf);
+}
+@font-face {
+  font-family: fairfax-serif;
+  src: url(../public/fonts/fairfax-serif.ttf);
+}
+@font-face {
+  font-family: fantasque-sans;
+  src: url(../public/fonts/fantasque-sans.woff);
+}
+@font-face {
+  font-family: fifteen;
+  src: url(../public/fonts/fifteen.ttf);
+}
+@font-face {
+  font-family: fira;
+  src: url(../public/fonts/fira.woff);
+}
+@font-face {
+  font-family: firacode;
+  src: url(../public/fonts/firacode.woff);
+}
+@font-face {
+  font-family: fixedsys;
+  src: url(../public/fonts/fixedsys.woff);
+}
+@font-face {
+  font-family: fixedsys-ligatures;
+  src: url(../public/fonts/fixedsys-ligatures.ttf);
+}
+@font-face {
+  font-family: font3270;
+  src: url(../public/fonts/font3270.woff);
+}
+@font-face {
+  font-family: generic;
+  src: url(../public/fonts/generic.otf);
+}
+@font-face {
+  font-family: gintronic;
+  src: url(../public/fonts/gintronic.woff2);
+}
+@font-face {
+  font-family: gnu-freefont;
+  src: url(../public/fonts/gnu-freefont.woff);
+}
+@font-face {
+  font-family: go-mono;
+  src: url(../public/fonts/go-mono.ttf);
+}
+@font-face {
+  font-family: hack;
+  src: url(../public/fonts/hack.woff);
+}
+@font-face {
+  font-family: hasklig;
+  src: url(../public/fonts/hasklig.otf);
+}
+@font-face {
+  font-family: hermit;
+  src: url(../public/fonts/hermit.woff2);
+}
+@font-face {
+  font-family: ia-writer-mono;
+  src: url(../public/fonts/ia-writer-mono.woff);
+}
+@font-face {
+  font-family: inconsolata;
+  src: url(../public/fonts/inconsolata.otf);
+}
+@font-face {
+  font-family: inconsolata-g;
+  src: url(../public/fonts/inconsolata-g.otf);
+}
+@font-face {
+  font-family: iosevka;
+  src: url(../public/fonts/iosevka.woff);
+}
+@font-face {
+  font-family: jetbrainsmono;
+  src: url(../public/fonts/jetbrainsmono.woff);
+}
+@font-face {
+  font-family: julia-mono;
+  src: url(../public/fonts/julia-mono.ttf);
+}
+@font-face {
+  font-family: latin-modern;
+  src: url(../public/fonts/latin-modern.woff);
+}
+@font-face {
+  font-family: league;
+  src: url(../public/fonts/league.woff);
+}
+@font-face {
+  font-family: lekton;
+  src: url(../public/fonts/lekton.ttf);
+}
+@font-face {
+  font-family: liberation;
+  src: url(../public/fonts/liberation.woff);
+}
+@font-face {
+  font-family: lilex-regular;
+  src: url(../public/fonts/lilex-regular.woff);
+}
+@font-face {
+  font-family: lotion;
+  src: url(../public/fonts/lotion.woff2);
+}
+@font-face {
+  font-family: luculent;
+  src: url(../public/fonts/luculent.woff);
+}
+@font-face {
+  font-family: luxi;
+  src: url(../public/fonts/luxi.woff);
+}
+@font-face {
+  font-family: mensch;
+  src: url(../public/fonts/mensch.ttf);
+}
+@font-face {
+  font-family: meslo;
+  src: url(../public/fonts/meslo.woff);
+}
+@font-face {
+  font-family: monoflow;
+  src: url(../public/fonts/monoflow.woff2);
+}
+@font-face {
+  font-family: monofur;
+  src: url(../public/fonts/monofur.woff);
+}
+@font-face {
+  font-family: monoid;
+  src: url(../public/fonts/monoid.ttf);
+}
+@font-face {
+  font-family: mononoki;
+  src: url(../public/fonts/mononoki.woff);
+}
+@font-face {
+  font-family: mplus;
+  src: url(../public/fonts/mplus.ttf);
+}
+@font-face {
+  font-family: nanum-gothic-coding;
+  src: url(../public/fonts/nanum-gothic-coding.ttf);
+}
+@font-face {
+  font-family: notcouriersans;
+  src: url(../public/fonts/notcouriersans.woff);
+}
+@font-face {
+  font-family: noto;
+  src: url(../public/fonts/noto.ttf);
+}
+@font-face {
+  font-family: nova;
+  src: url(../public/fonts/nova.ttf);
+}
+@font-face {
+  font-family: office-code-pro;
+  src: url(../public/fonts/office-code-pro.woff);
+}
+@font-face {
+  font-family: opendyslexic;
+  src: url(../public/fonts/opendyslexic.otf);
+}
+@font-face {
+  font-family: overpass;
+  src: url(../public/fonts/overpass.woff);
+}
+@font-face {
+  font-family: oxygen;
+  src: url(../public/fonts/oxygen.otf);
+}
+@font-face {
+  font-family: plex-mono;
+  src: url(../public/fonts/plex-mono.woff);
+}
+@font-face {
+  font-family: press-start-2p;
+  src: url(../public/fonts/press-start-2p.ttf);
+}
+@font-face {
+  font-family: profont;
+  src: url(../public/fonts/profont.woff);
+}
+@font-face {
+  font-family: proggy-clean;
+  src: url(../public/fonts/proggy-clean.woff);
+}
+@font-face {
+  font-family: proggy-vector;
+  src: url(../public/fonts/proggy-vector.woff);
+}
+@font-face {
+  font-family: pt;
+  src: url(../public/fonts/pt.woff);
+}
+@font-face {
+  font-family: quinze;
+  src: url(../public/fonts/quinze.ttf);
+}
+@font-face {
+  font-family: recursive-mono-linear;
+  src: url(../public/fonts/recursive-mono-linear.ttf);
+}
+@font-face {
+  font-family: redhat;
+  src: url(../public/fonts/redhat.woff2);
+}
+@font-face {
+  font-family: roboto;
+  src: url(../public/fonts/roboto.woff);
+}
+@font-face {
+  font-family: sax;
+  src: url(../public/fonts/sax.woff);
+}
+@font-face {
+  font-family: share-tech;
+  src: url(../public/fonts/share-tech.ttf);
+}
+@font-face {
+  font-family: sk-modernist;
+  src: url(../public/fonts/sk-modernist.woff);
+}
+@font-face {
+  font-family: sometype-mono-regular;
+  src: url(../public/fonts/sometype-mono-regular.woff);
+}
+@font-face {
+  font-family: source-code-pro;
+  src: url(../public/fonts/source-code-pro.woff);
+}
+@font-face {
+  font-family: space;
+  src: url(../public/fonts/space.ttf);
+}
+@font-face {
+  font-family: spleen;
+  src: url(../public/fonts/spleen.otf);
+}
+@font-face {
+  font-family: sudo;
+  src: url(../public/fonts/sudo.ttf);
+}
+@font-face {
+  font-family: terminus;
+  src: url(../public/fonts/terminus.ttf);
+}
+@font-face {
+  font-family: tex-gyre-cursor;
+  src: url(../public/fonts/tex-gyre-cursor.woff);
+}
+@font-face {
+  font-family: ubuntu;
+  src: url(../public/fonts/ubuntu.ttf);
+}
+@font-face {
+  font-family: unifont;
+  src: url(../public/fonts/unifont.woff);
+}
+@font-face {
+  font-family: verily;
+  src: url(../public/fonts/verily.woff);
+}
+@font-face {
+  font-family: victor-mono;
+  src: url(../public/fonts/victor-mono.woff);
+}
+@font-face {
+  font-family: vt323;
+  src: url(../public/fonts/vt323.ttf);
+}

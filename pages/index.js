@@ -11,7 +11,7 @@ export default function Home() {
         <title>Home | awesome-zsh</title>
       </Head>
 
-      <h1 className="animate__animated animate__fadeInUp text-5xl text-center mt-10 font-semibold text-orange-400">
+      <h1 className="animate__animated animate__fadeInUp text-5xl text-center mt-16 font-semibold text-orange-400">
         <Typed
           strings={["Spice up your terminal", "Make it look 10x cooler"]}
           typeSpeed={60}

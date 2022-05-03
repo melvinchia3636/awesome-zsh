@@ -32,6 +32,7 @@ function Navbar() {
             ["Frameworks", "/frameworks"],
             ["Themes", "/themes"],
             ["Fonts", "/fonts"],
+            ["Icons", "/icons"],
             ["Plugins", "/plugins"],
           ].map(([name, path]) => (
             <Link passHref key={name} href={path}>
