@@ -2,7 +2,7 @@ import React from 'react'
 
 function Showcase({ font }) {
   return (
-    <div className="w-3/4" style={{
+    <div className="w-[calc(75%-2rem)]" style={{
       fontFamily: font,
     }}>
       <h2 className="mb-6 text-3xl -ml-4 [font-family:inherit]">{font}</h2>

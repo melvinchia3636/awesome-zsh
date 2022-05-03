@@ -1,47 +1,30 @@
-/* eslint-disable @next/next/no-img-element */
-import { Icon } from "@iconify/react";
-import React, { useState } from "react";
-import Head from "next/head";
-import FontList from "../../components/fonts/FontList";
+import { Icon } from '@iconify/react'
+import React, { useState } from 'react'
 
-function Themes() {
-  const [query, setQuery] = useState("");
+function Patcher() {
   const [showCLI, setShowCLI] = useState(false);
 
   return (
-    <div className="flex flex-col items-center w-full gap-32">
-      <Head>
-        <title>Themes | awesome-zsh</title>
-      </Head>
-      <h1 className="mt-20 text-5xl w-3/4 text-left font-semibold relative after:absolute after:-bottom-4 after:left-0 after:border-b-4 after:border-neutral-100 after:w-16">
-        Fonts
-      </h1>
-      <p className="-mt-20 leading-8 w-3/4">
-        Here are a list of fonts that you can use for your terminal and
-        your code editor. Use the provided FontForge Python Script to patch your
-        own patched font.
-      </p>
+    <>
       <div className="w-3/4 -mt-20 flex items-center gap-8">
-        <button className="border-2 border-orange-400 w-72 py-4 text-xl text-orange-400 hover:bg-orange-400 hover:text-neutral-900 transition-all duration-300">
+        <a href="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/font-patcher" target="_blank" rel="noreferrer" className="border-2 border-orange-400 w-72 py-4 text-lg text-orange-400 hover:bg-orange-400 hover:text-neutral-900 transition-all duration-300 text-center">
           Download patcher
-        </button>
+        </a>
         <button
           onClick={() => setShowCLI(!showCLI)}
           className="flex items-center gap-2"
         >
           <Icon
             icon="uil:angle-right"
-            className={`w-5 h-5 transition-all ${
-              showCLI ? "rotate-90" : "rotate-0"
-            }`}
+            className={`w-5 h-5 transition-all ${showCLI ? "rotate-90" : "rotate-0"
+              }`}
           />
           <span className="underline">Show Font Patcher CLI</span>
         </button>
       </div>
       <code
-        className={`bg-[rgb(50,50,50)] w-3/4 block whitespace-pre-wrap px-8 rounded-lg shadow-2xl transition-all duration-500 overflow-hidden -mt-20 ${
-          showCLI ? "max-h-[116rem] py-8" : "max-h-0 py-0"
-        }`}
+        className={`bg-[rgb(50,50,50)] w-3/4 block whitespace-pre-wrap px-8 rounded-lg shadow-2xl transition-all duration-500 overflow-hidden -mt-20 ${showCLI ? "max-h-[116rem] py-8" : "max-h-0 py-0"
+          }`}
       >
         {`./font-patcher
 usage: font-patcher
@@ -107,18 +90,8 @@ Symbol Fonts:
   --weather, --weathericons
                         Add Weather Icons (https://github.com/erikflowers/weather-icons)`}
       </code>
-      <div className="flex border-2 w-3/4 -mt-12 border-neutral-100 p-4">
-        <Icon icon="uil:search" className="w-6 h-6" />
-        <input
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          className="flex-1 bg-transparent pl-4 focus:outline-none placeholder-neutral-100"
-          placeholder="Search fonts"
-        />
-      </div>
-      <FontList query={query} />
-    </div>
-  );
+    </>
+  )
 }
 
-export default Themes;
+export default Patcher
